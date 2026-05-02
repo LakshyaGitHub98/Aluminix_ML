@@ -1,13 +1,16 @@
 import pickle
 
-model = pickle.load(open("model.pkl", "rb"))
-cv = pickle.load(open("encoder.pkl", "rb"))
+model = pickle.load(open("models/model.pkl", "rb"))
+cv = pickle.load(open("models/encoder.pkl", "rb"))
 
-def predict(branch, skills):
-    text = branch + " " + skills
+def predict(skills):
+    # same preprocessing as training
+    text = skills.lower().strip()
     vec = cv.transform([text])
     return model.predict(vec)[0]
 
-print(predict("CSE", "python machine learning"))
-print(predict("IT", "react node mongodb"))
-print(predict("ECE", "iot sensors arduino"))
+# 🔥 TEST CASES
+print("Test 1:", predict("python machine learning ai data analysis"))
+print("Test 2:", predict("html css javascript react"))
+print("Test 3:", predict("node js express mongodb api"))
+print("Test 4:", predict("iot sensors arduino embedded"))

@@ -1,39 +1,47 @@
-from flask import Flask, request, jsonify
 import pickle
+from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-# Load model + vectorizer
-model = pickle.load(open("model.pkl", "rb"))
-cv = pickle.load(open("encoder.pkl", "rb"))
-
-@app.route("/", methods=["GET"])
-def home():
-    return jsonify({"message": "AluminiX AI API Running"})
+# ✅ Correct paths (NEW STRUCTURE)
+model = pickle.load(open("models/model.pkl", "rb"))
+vectorizer = pickle.load(open("models/encoder.pkl", "rb"))
 
 @app.route("/predict", methods=["POST"])
 def predict():
     try:
         data = request.get_json()
 
-        branch = data.get("branch", "")
-        skills = data.get("skills", "")
+        # ✅ Extract skills only (as per training)
+        skills = data.get("skills", "").lower().strip()
 
-        text = branch + " " + skills
-        vec = cv.transform([text])
+        if not skills:
+            return jsonify({
+                "error": "Skills are required",
+                "success": False
+            }), 400
 
-        prediction = model.predict(vec)[0]
+        print("INPUT →", skills)  # debug
+
+        # ✅ Transform using vectorizer
+        vector = vectorizer.transform([skills])
+
+        # ✅ Predict
+        prediction = model.predict(vector)[0]
 
         return jsonify({
-            "success": True,
-            "career": prediction
+            "prediction": prediction,
+            "success": True
         })
 
     except Exception as e:
+        print("ERROR:", e)
         return jsonify({
-            "success": False,
-            "error": str(e)
-        })
+            "error": str(e),
+            "success": False
+        }), 500
 
+
+# ✅ Run server
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, host="0.0.0.0", port=5000)

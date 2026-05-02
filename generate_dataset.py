@@ -3,48 +3,35 @@ import csv
 
 branches = ["CSE", "IT", "ECE", "ME", "CE"]
 
-skills_pool = {
-    "CSE": [
-        "python machine learning ai data analysis",
-        "html css javascript react",
-        "nodejs express mongodb api",
-        "django python sql backend",
-        "flutter mobile apps firebase",
-        "ai deep learning neural networks"
-    ],
-    "IT": [
-        "java spring boot microservices",
-        "react node mongodb fullstack",
-        "aws docker kubernetes cloud",
-        "python flask apis backend",
-        "cyber security linux networking"
-    ],
-    "ECE": [
-        "iot sensors arduino embedded",
-        "verilog vlsi design circuits",
-        "embedded c microcontrollers",
-        "signal processing electronics"
-    ],
-    "ME": [
-        "autocad solidworks design",
-        "thermal systems manufacturing",
-        "mechanical cad cam",
-        "robotics automation design"
-    ],
-    "CE": [
-        "structure planning autocad",
-        "construction surveying site work",
-        "geotechnical civil engineering",
-        "infrastructure design planning"
-    ]
-}
+# ✅ FIXED mapping (NO randomness in career)
+skills_to_career = {
+    "python machine learning ai data analysis": "Data Scientist",
+    "ai deep learning neural networks": "AI Engineer",
+    "html css javascript react": "Frontend Developer",
+    "nodejs express mongodb api": "Backend Developer",
+    "django python sql backend": "Backend Developer",
+    "flutter mobile apps firebase": "Mobile App Developer",
 
-careers = {
-    "CSE": ["Data Scientist", "AI Engineer", "Backend Developer", "Frontend Developer", "Mobile App Developer"],
-    "IT": ["Software Engineer", "Full Stack Developer", "DevOps Engineer", "Backend Developer", "Security Analyst"],
-    "ECE": ["IoT Engineer", "Hardware Engineer", "Embedded Engineer"],
-    "ME": ["Mechanical Engineer", "Design Engineer"],
-    "CE": ["Civil Engineer", "Site Engineer"]
+    "java spring boot microservices": "Software Engineer",
+    "react node mongodb fullstack": "Full Stack Developer",
+    "aws docker kubernetes cloud": "DevOps Engineer",
+    "python flask apis backend": "Backend Developer",
+    "cyber security linux networking": "Security Analyst",
+
+    "iot sensors arduino embedded": "IoT Engineer",
+    "verilog vlsi design circuits": "Hardware Engineer",
+    "embedded c microcontrollers": "Embedded Engineer",
+    "signal processing electronics": "Embedded Engineer",
+
+    "autocad solidworks design": "Design Engineer",
+    "thermal systems manufacturing": "Mechanical Engineer",
+    "mechanical cad cam": "Mechanical Engineer",
+    "robotics automation design": "Design Engineer",
+
+    "structure planning autocad": "Civil Engineer",
+    "construction surveying site work": "Site Engineer",
+    "geotechnical civil engineering": "Civil Engineer",
+    "infrastructure design planning": "Site Engineer"
 }
 
 def random_cgpa():
@@ -61,13 +48,14 @@ def random_comm():
 
 rows = []
 
-for i in range(1500):
-    branch = random.choice(branches)
-    skills = random.choice(skills_pool[branch])
-    career = random.choice(careers[branch])
+skills_list = list(skills_to_career.keys())
+
+for i in range(2000):
+    skills = random.choice(skills_list)
+    career = skills_to_career[skills]
 
     rows.append([
-        branch,
+        "CSE",  # optional (not important now)
         skills,
         random_cgpa(),
         random_projects(),
@@ -81,4 +69,4 @@ with open("dataset.csv", "w", newline="") as f:
     writer.writerow(["branch","skills","cgpa","projects","internships","communication","career"])
     writer.writerows(rows)
 
-print("Dataset generated with 1500 rows 🚀")
+print("✅ Clean dataset generated successfully 🚀")

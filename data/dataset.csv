@@ -1,0 +1,2001 @@
+branch,skills,cgpa,projects,internships,communication,career
+CSE,react node mongodb fullstack,7.41,5,0,8,Full Stack Developer
+CSE,java spring boot microservices,8.35,1,2,9,Software Engineer
+CSE,python flask apis backend,8.9,1,2,8,Backend Developer
+CSE,thermal systems manufacturing,7.27,2,0,10,Mechanical Engineer
+CSE,nodejs express mongodb api,7.02,5,1,6,Backend Developer
+CSE,html css javascript react,7.5,2,2,6,Frontend Developer
+CSE,java spring boot microservices,9.46,5,1,9,Software Engineer
+CSE,infrastructure design planning,6.65,2,2,8,Site Engineer
+CSE,structure planning autocad,8.08,1,2,9,Civil Engineer
+CSE,python flask apis backend,8.39,3,2,6,Backend Developer
+CSE,react node mongodb fullstack,6.74,2,1,9,Full Stack Developer
+CSE,structure planning autocad,6.52,3,0,9,Civil Engineer
+CSE,react node mongodb fullstack,7.79,5,2,8,Full Stack Developer
+CSE,flutter mobile apps firebase,8.58,4,2,10,Mobile App Developer
+CSE,embedded c microcontrollers,8.59,3,0,8,Embedded Engineer
+CSE,python machine learning ai data analysis,8.55,3,0,6,Data Scientist
+CSE,signal processing electronics,8.74,2,2,6,Embedded Engineer
+CSE,flutter mobile apps firebase,8.27,1,2,10,Mobile App Developer
+CSE,embedded c microcontrollers,6.54,2,0,6,Embedded Engineer
+CSE,iot sensors arduino embedded,7.7,5,2,10,IoT Engineer
+CSE,thermal systems manufacturing,9.21,3,2,7,Mechanical Engineer
+CSE,verilog vlsi design circuits,9.2,4,1,8,Hardware Engineer
+CSE,django python sql backend,8.77,5,0,6,Backend Developer
+CSE,robotics automation design,6.54,1,2,9,Design Engineer
+CSE,python flask apis backend,7.78,2,2,10,Backend Developer
+CSE,ai deep learning neural networks,6.71,3,1,10,AI Engineer
+CSE,cyber security linux networking,6.9,2,0,10,Security Analyst
+CSE,thermal systems manufacturing,7.68,4,2,9,Mechanical Engineer
+CSE,iot sensors arduino embedded,8.37,1,1,10,IoT Engineer
+CSE,ai deep learning neural networks,8.87,5,0,8,AI Engineer
+CSE,java spring boot microservices,9.2,4,0,8,Software Engineer
+CSE,autocad solidworks design,7.31,2,1,6,Design Engineer
+CSE,embedded c microcontrollers,8.99,3,0,8,Embedded Engineer
+CSE,aws docker kubernetes cloud,8.75,1,2,8,DevOps Engineer
+CSE,verilog vlsi design circuits,9.02,3,1,6,Hardware Engineer
+CSE,mechanical cad cam,7.46,4,2,8,Mechanical Engineer
+CSE,cyber security linux networking,8.53,1,0,10,Security Analyst
+CSE,java spring boot microservices,6.58,3,1,8,Software Engineer
+CSE,thermal systems manufacturing,7.49,2,2,9,Mechanical Engineer
+CSE,embedded c microcontrollers,6.95,2,0,10,Embedded Engineer
+CSE,signal processing electronics,6.71,1,2,6,Embedded Engineer
+CSE,mechanical cad cam,6.71,5,0,7,Mechanical Engineer
+CSE,java spring boot microservices,7.21,2,1,7,Software Engineer
+CSE,verilog vlsi design circuits,8.3,4,1,6,Hardware Engineer
+CSE,nodejs express mongodb api,7.03,3,1,9,Backend Developer
+CSE,html css javascript react,8.16,5,1,8,Frontend Developer
+CSE,geotechnical civil engineering,8.32,2,0,9,Civil Engineer
+CSE,java spring boot microservices,7.38,5,0,9,Software Engineer
+CSE,embedded c microcontrollers,8.91,2,2,6,Embedded Engineer
+CSE,robotics automation design,8.19,1,1,8,Design Engineer
+CSE,signal processing electronics,7.49,4,0,7,Embedded Engineer
+CSE,python machine learning ai data analysis,7.1,2,2,8,Data Scientist
+CSE,nodejs express mongodb api,7.68,5,1,9,Backend Developer
+CSE,mechanical cad cam,7.14,5,1,9,Mechanical Engineer
+CSE,thermal systems manufacturing,9.48,3,0,7,Mechanical Engineer
+CSE,autocad solidworks design,8.31,3,2,8,Design Engineer
+CSE,thermal systems manufacturing,6.78,5,1,10,Mechanical Engineer
+CSE,verilog vlsi design circuits,8.08,5,1,7,Hardware Engineer
+CSE,geotechnical civil engineering,6.77,5,2,8,Civil Engineer
+CSE,nodejs express mongodb api,9.45,5,1,8,Backend Developer
+CSE,thermal systems manufacturing,7.33,5,0,7,Mechanical Engineer
+CSE,cyber security linux networking,7.96,2,0,7,Security Analyst
+CSE,nodejs express mongodb api,8.33,1,0,9,Backend Developer
+CSE,python machine learning ai data analysis,8.74,4,1,8,Data Scientist
+CSE,iot sensors arduino embedded,9.13,4,2,7,IoT Engineer
+CSE,signal processing electronics,6.72,3,0,7,Embedded Engineer
+CSE,signal processing electronics,8.62,3,1,8,Embedded Engineer
+CSE,structure planning autocad,8.54,5,2,6,Civil Engineer
+CSE,mechanical cad cam,8.26,5,0,6,Mechanical Engineer
+CSE,construction surveying site work,9.2,2,2,8,Site Engineer
+CSE,aws docker kubernetes cloud,9.35,5,2,8,DevOps Engineer
+CSE,python machine learning ai data analysis,9.25,2,0,8,Data Scientist
+CSE,html css javascript react,6.74,5,0,6,Frontend Developer
+CSE,construction surveying site work,7.85,4,0,6,Site Engineer
+CSE,html css javascript react,6.56,5,0,8,Frontend Developer
+CSE,ai deep learning neural networks,7.22,4,0,7,AI Engineer
+CSE,infrastructure design planning,6.88,1,0,9,Site Engineer
+CSE,html css javascript react,8.48,5,0,7,Frontend Developer
+CSE,signal processing electronics,9.47,4,1,7,Embedded Engineer
+CSE,geotechnical civil engineering,7.03,5,0,9,Civil Engineer
+CSE,structure planning autocad,8.74,3,1,8,Civil Engineer
+CSE,construction surveying site work,7.53,1,1,10,Site Engineer
+CSE,autocad solidworks design,7.28,1,2,6,Design Engineer
+CSE,java spring boot microservices,7.6,1,1,8,Software Engineer
+CSE,signal processing electronics,9.44,4,0,7,Embedded Engineer
+CSE,embedded c microcontrollers,8.09,4,1,10,Embedded Engineer
+CSE,python flask apis backend,7.1,1,2,10,Backend Developer
+CSE,iot sensors arduino embedded,7.77,3,2,8,IoT Engineer
+CSE,java spring boot microservices,6.93,1,1,9,Software Engineer
+CSE,python flask apis backend,9.44,5,0,8,Backend Developer
+CSE,structure planning autocad,7.53,1,0,7,Civil Engineer
+CSE,verilog vlsi design circuits,6.74,1,2,8,Hardware Engineer
+CSE,embedded c microcontrollers,8.74,4,2,10,Embedded Engineer
+CSE,django python sql backend,8.21,2,1,9,Backend Developer
+CSE,verilog vlsi design circuits,8.94,5,0,10,Hardware Engineer
+CSE,nodejs express mongodb api,9.39,3,0,9,Backend Developer
+CSE,infrastructure design planning,7.79,3,0,7,Site Engineer
+CSE,structure planning autocad,9.21,5,1,7,Civil Engineer
+CSE,html css javascript react,9.14,4,1,10,Frontend Developer
+CSE,aws docker kubernetes cloud,6.63,1,1,6,DevOps Engineer
+CSE,nodejs express mongodb api,6.86,1,1,6,Backend Developer
+CSE,infrastructure design planning,7.2,2,1,9,Site Engineer
+CSE,mechanical cad cam,9.31,4,1,10,Mechanical Engineer
+CSE,construction surveying site work,8.17,1,0,6,Site Engineer
+CSE,infrastructure design planning,7.91,2,2,8,Site Engineer
+CSE,signal processing electronics,7.84,3,2,7,Embedded Engineer
+CSE,thermal systems manufacturing,8.22,3,2,8,Mechanical Engineer
+CSE,signal processing electronics,9.04,2,0,9,Embedded Engineer
+CSE,python flask apis backend,6.69,2,2,10,Backend Developer
+CSE,mechanical cad cam,8.37,3,2,8,Mechanical Engineer
+CSE,verilog vlsi design circuits,6.8,2,2,8,Hardware Engineer
+CSE,django python sql backend,8.06,2,0,10,Backend Developer
+CSE,construction surveying site work,6.54,3,0,7,Site Engineer
+CSE,embedded c microcontrollers,7.14,2,1,9,Embedded Engineer
+CSE,java spring boot microservices,9.1,1,1,8,Software Engineer
+CSE,embedded c microcontrollers,6.8,1,1,9,Embedded Engineer
+CSE,html css javascript react,7.13,4,0,9,Frontend Developer
+CSE,embedded c microcontrollers,7.85,3,0,10,Embedded Engineer
+CSE,python flask apis backend,7.06,3,0,10,Backend Developer
+CSE,iot sensors arduino embedded,8.59,4,1,9,IoT Engineer
+CSE,autocad solidworks design,6.53,4,2,10,Design Engineer
+CSE,embedded c microcontrollers,8.12,5,2,7,Embedded Engineer
+CSE,ai deep learning neural networks,9.48,4,0,9,AI Engineer
+CSE,ai deep learning neural networks,9.45,2,1,6,AI Engineer
+CSE,structure planning autocad,6.78,4,2,7,Civil Engineer
+CSE,django python sql backend,8.9,4,2,8,Backend Developer
+CSE,infrastructure design planning,9.06,1,1,6,Site Engineer
+CSE,autocad solidworks design,7.51,1,0,9,Design Engineer
+CSE,autocad solidworks design,9.17,5,1,10,Design Engineer
+CSE,geotechnical civil engineering,7.62,3,1,6,Civil Engineer
+CSE,html css javascript react,6.82,5,0,9,Frontend Developer
+CSE,ai deep learning neural networks,8.18,3,2,7,AI Engineer
+CSE,python flask apis backend,9.05,1,0,8,Backend Developer
+CSE,signal processing electronics,8.04,5,1,6,Embedded Engineer
+CSE,cyber security linux networking,7.92,3,1,6,Security Analyst
+CSE,construction surveying site work,7.05,4,1,8,Site Engineer
+CSE,ai deep learning neural networks,7.23,2,1,6,AI Engineer
+CSE,nodejs express mongodb api,8.48,3,0,10,Backend Developer
+CSE,flutter mobile apps firebase,8.69,1,0,8,Mobile App Developer
+CSE,ai deep learning neural networks,6.61,3,0,9,AI Engineer
+CSE,autocad solidworks design,8.05,4,1,8,Design Engineer
+CSE,react node mongodb fullstack,7.11,4,2,10,Full Stack Developer
+CSE,geotechnical civil engineering,8.07,1,2,6,Civil Engineer
+CSE,structure planning autocad,6.77,5,2,9,Civil Engineer
+CSE,python machine learning ai data analysis,9.38,5,2,10,Data Scientist
+CSE,aws docker kubernetes cloud,6.56,3,1,10,DevOps Engineer
+CSE,verilog vlsi design circuits,8.82,1,1,9,Hardware Engineer
+CSE,infrastructure design planning,8.67,3,1,6,Site Engineer
+CSE,mechanical cad cam,8.78,4,2,6,Mechanical Engineer
+CSE,construction surveying site work,9.15,2,2,6,Site Engineer
+CSE,signal processing electronics,8.85,4,2,9,Embedded Engineer
+CSE,nodejs express mongodb api,7.8,2,2,8,Backend Developer
+CSE,nodejs express mongodb api,8.41,4,1,7,Backend Developer
+CSE,autocad solidworks design,9.19,4,0,9,Design Engineer
+CSE,mechanical cad cam,7.12,3,1,6,Mechanical Engineer
+CSE,robotics automation design,8.79,4,2,9,Design Engineer
+CSE,flutter mobile apps firebase,8.24,3,0,9,Mobile App Developer
+CSE,ai deep learning neural networks,9.25,4,0,10,AI Engineer
+CSE,construction surveying site work,6.64,5,1,8,Site Engineer
+CSE,nodejs express mongodb api,7.24,4,0,9,Backend Developer
+CSE,structure planning autocad,8.66,3,1,6,Civil Engineer
+CSE,geotechnical civil engineering,7.2,5,1,7,Civil Engineer
+CSE,java spring boot microservices,8.93,1,0,7,Software Engineer
+CSE,cyber security linux networking,8.37,1,1,8,Security Analyst
+CSE,embedded c microcontrollers,8.04,1,2,7,Embedded Engineer
+CSE,cyber security linux networking,6.68,1,1,8,Security Analyst
+CSE,thermal systems manufacturing,7.29,5,1,8,Mechanical Engineer
+CSE,infrastructure design planning,8.66,3,2,9,Site Engineer
+CSE,embedded c microcontrollers,7.68,4,1,6,Embedded Engineer
+CSE,robotics automation design,6.68,1,1,8,Design Engineer
+CSE,nodejs express mongodb api,7.75,3,0,10,Backend Developer
+CSE,python machine learning ai data analysis,8.17,5,0,6,Data Scientist
+CSE,iot sensors arduino embedded,7.56,2,0,6,IoT Engineer
+CSE,verilog vlsi design circuits,6.64,4,2,9,Hardware Engineer
+CSE,geotechnical civil engineering,9.21,1,2,6,Civil Engineer
+CSE,structure planning autocad,8.37,3,2,8,Civil Engineer
+CSE,mechanical cad cam,8.34,2,1,10,Mechanical Engineer
+CSE,html css javascript react,9.45,3,1,6,Frontend Developer
+CSE,infrastructure design planning,7.85,4,2,8,Site Engineer
+CSE,thermal systems manufacturing,7.83,2,2,9,Mechanical Engineer
+CSE,nodejs express mongodb api,8.25,5,1,6,Backend Developer
+CSE,autocad solidworks design,6.83,2,0,6,Design Engineer
+CSE,django python sql backend,7.51,1,1,10,Backend Developer
+CSE,flutter mobile apps firebase,6.81,4,0,6,Mobile App Developer
+CSE,mechanical cad cam,8.25,1,1,9,Mechanical Engineer
+CSE,java spring boot microservices,8.65,2,0,10,Software Engineer
+CSE,ai deep learning neural networks,7.79,1,2,10,AI Engineer
+CSE,django python sql backend,8.14,4,0,7,Backend Developer
+CSE,thermal systems manufacturing,8.0,4,0,8,Mechanical Engineer
+CSE,autocad solidworks design,9.13,3,2,10,Design Engineer
+CSE,robotics automation design,6.69,5,1,9,Design Engineer
+CSE,html css javascript react,7.67,5,1,10,Frontend Developer
+CSE,iot sensors arduino embedded,8.34,4,0,10,IoT Engineer
+CSE,flutter mobile apps firebase,7.04,3,2,7,Mobile App Developer
+CSE,python flask apis backend,9.43,3,2,10,Backend Developer
+CSE,construction surveying site work,6.82,3,2,9,Site Engineer
+CSE,aws docker kubernetes cloud,7.62,4,2,8,DevOps Engineer
+CSE,python flask apis backend,7.32,2,1,9,Backend Developer
+CSE,java spring boot microservices,7.18,2,1,10,Software Engineer
+CSE,java spring boot microservices,9.33,3,2,9,Software Engineer
+CSE,flutter mobile apps firebase,8.05,5,1,9,Mobile App Developer
+CSE,autocad solidworks design,8.93,2,1,9,Design Engineer
+CSE,construction surveying site work,6.77,2,2,9,Site Engineer
+CSE,autocad solidworks design,7.67,4,2,9,Design Engineer
+CSE,ai deep learning neural networks,8.72,4,2,6,AI Engineer
+CSE,construction surveying site work,6.92,3,2,8,Site Engineer
+CSE,python machine learning ai data analysis,9.3,1,1,6,Data Scientist
+CSE,aws docker kubernetes cloud,8.16,4,2,7,DevOps Engineer
+CSE,iot sensors arduino embedded,8.67,5,1,9,IoT Engineer
+CSE,java spring boot microservices,6.82,3,2,7,Software Engineer
+CSE,react node mongodb fullstack,6.87,5,2,9,Full Stack Developer
+CSE,nodejs express mongodb api,7.79,4,2,10,Backend Developer
+CSE,ai deep learning neural networks,9.47,3,2,9,AI Engineer
+CSE,nodejs express mongodb api,7.66,2,0,9,Backend Developer
+CSE,html css javascript react,7.33,5,1,9,Frontend Developer
+CSE,signal processing electronics,7.96,5,1,8,Embedded Engineer
+CSE,aws docker kubernetes cloud,7.01,2,1,9,DevOps Engineer
+CSE,infrastructure design planning,6.89,2,2,9,Site Engineer
+CSE,construction surveying site work,6.75,5,2,9,Site Engineer
+CSE,nodejs express mongodb api,9.41,4,0,6,Backend Developer
+CSE,iot sensors arduino embedded,7.5,3,0,9,IoT Engineer
+CSE,python flask apis backend,8.78,1,2,6,Backend Developer
+CSE,geotechnical civil engineering,7.01,3,1,9,Civil Engineer
+CSE,embedded c microcontrollers,9.24,2,2,7,Embedded Engineer
+CSE,django python sql backend,9.06,4,2,7,Backend Developer
+CSE,aws docker kubernetes cloud,8.45,4,0,8,DevOps Engineer
+CSE,autocad solidworks design,8.13,5,0,7,Design Engineer
+CSE,react node mongodb fullstack,6.67,3,1,10,Full Stack Developer
+CSE,autocad solidworks design,7.59,1,0,7,Design Engineer
+CSE,python flask apis backend,9.03,5,2,6,Backend Developer
+CSE,aws docker kubernetes cloud,9.42,5,0,6,DevOps Engineer
+CSE,embedded c microcontrollers,9.24,2,2,10,Embedded Engineer
+CSE,python flask apis backend,8.63,5,2,10,Backend Developer
+CSE,html css javascript react,8.17,5,1,8,Frontend Developer
+CSE,nodejs express mongodb api,7.78,3,2,6,Backend Developer
+CSE,infrastructure design planning,8.33,5,1,10,Site Engineer
+CSE,python flask apis backend,8.77,3,2,8,Backend Developer
+CSE,react node mongodb fullstack,6.74,1,1,7,Full Stack Developer
+CSE,embedded c microcontrollers,8.54,3,0,7,Embedded Engineer
+CSE,autocad solidworks design,7.84,2,0,6,Design Engineer
+CSE,mechanical cad cam,8.76,3,1,7,Mechanical Engineer
+CSE,python flask apis backend,6.98,3,1,9,Backend Developer
+CSE,iot sensors arduino embedded,8.78,1,2,7,IoT Engineer
+CSE,python flask apis backend,7.72,4,1,9,Backend Developer
+CSE,embedded c microcontrollers,8.42,5,2,8,Embedded Engineer
+CSE,ai deep learning neural networks,9.29,4,2,7,AI Engineer
+CSE,infrastructure design planning,7.18,5,1,10,Site Engineer
+CSE,geotechnical civil engineering,6.56,3,2,6,Civil Engineer
+CSE,construction surveying site work,6.9,3,2,7,Site Engineer
+CSE,django python sql backend,6.75,5,1,7,Backend Developer
+CSE,verilog vlsi design circuits,6.95,5,2,6,Hardware Engineer
+CSE,infrastructure design planning,6.92,4,2,9,Site Engineer
+CSE,react node mongodb fullstack,6.84,3,2,6,Full Stack Developer
+CSE,python machine learning ai data analysis,7.75,5,2,10,Data Scientist
+CSE,thermal systems manufacturing,8.06,2,0,9,Mechanical Engineer
+CSE,ai deep learning neural networks,9.14,2,1,6,AI Engineer
+CSE,aws docker kubernetes cloud,9.41,4,1,8,DevOps Engineer
+CSE,cyber security linux networking,6.82,4,1,9,Security Analyst
+CSE,verilog vlsi design circuits,7.48,3,2,9,Hardware Engineer
+CSE,cyber security linux networking,9.03,3,2,9,Security Analyst
+CSE,embedded c microcontrollers,7.53,1,2,9,Embedded Engineer
+CSE,geotechnical civil engineering,7.28,2,1,9,Civil Engineer
+CSE,embedded c microcontrollers,9.22,1,1,8,Embedded Engineer
+CSE,thermal systems manufacturing,8.24,3,1,7,Mechanical Engineer
+CSE,embedded c microcontrollers,9.2,1,1,8,Embedded Engineer
+CSE,thermal systems manufacturing,6.91,2,0,6,Mechanical Engineer
+CSE,react node mongodb fullstack,7.99,2,2,10,Full Stack Developer
+CSE,react node mongodb fullstack,6.79,2,2,9,Full Stack Developer
+CSE,verilog vlsi design circuits,9.0,5,0,8,Hardware Engineer
+CSE,signal processing electronics,9.22,1,0,8,Embedded Engineer
+CSE,robotics automation design,7.46,5,2,6,Design Engineer
+CSE,autocad solidworks design,8.31,5,1,10,Design Engineer
+CSE,aws docker kubernetes cloud,6.71,1,1,8,DevOps Engineer
+CSE,python machine learning ai data analysis,7.95,5,0,9,Data Scientist
+CSE,ai deep learning neural networks,6.68,2,2,7,AI Engineer
+CSE,java spring boot microservices,7.61,4,0,7,Software Engineer
+CSE,robotics automation design,8.75,5,2,10,Design Engineer
+CSE,embedded c microcontrollers,8.1,2,1,8,Embedded Engineer
+CSE,structure planning autocad,7.36,1,1,9,Civil Engineer
+CSE,embedded c microcontrollers,8.26,1,0,10,Embedded Engineer
+CSE,ai deep learning neural networks,8.19,1,1,8,AI Engineer
+CSE,signal processing electronics,8.64,2,2,6,Embedded Engineer
+CSE,django python sql backend,8.15,3,1,9,Backend Developer
+CSE,django python sql backend,7.43,3,1,6,Backend Developer
+CSE,aws docker kubernetes cloud,8.77,1,1,9,DevOps Engineer
+CSE,cyber security linux networking,9.27,4,0,9,Security Analyst
+CSE,react node mongodb fullstack,9.14,4,2,10,Full Stack Developer
+CSE,verilog vlsi design circuits,7.71,3,1,9,Hardware Engineer
+CSE,flutter mobile apps firebase,6.77,1,0,9,Mobile App Developer
+CSE,iot sensors arduino embedded,6.89,2,0,9,IoT Engineer
+CSE,ai deep learning neural networks,9.16,1,1,9,AI Engineer
+CSE,python flask apis backend,6.93,5,2,6,Backend Developer
+CSE,verilog vlsi design circuits,9.2,3,0,6,Hardware Engineer
+CSE,python flask apis backend,7.94,4,0,9,Backend Developer
+CSE,html css javascript react,8.64,5,1,7,Frontend Developer
+CSE,python flask apis backend,7.9,4,2,10,Backend Developer
+CSE,robotics automation design,8.84,1,0,7,Design Engineer
+CSE,ai deep learning neural networks,8.59,3,2,6,AI Engineer
+CSE,structure planning autocad,8.9,2,0,9,Civil Engineer
+CSE,infrastructure design planning,9.08,1,1,10,Site Engineer
+CSE,python machine learning ai data analysis,7.57,2,1,10,Data Scientist
+CSE,embedded c microcontrollers,8.72,2,2,8,Embedded Engineer
+CSE,java spring boot microservices,9.03,1,1,7,Software Engineer
+CSE,autocad solidworks design,8.32,3,1,10,Design Engineer
+CSE,mechanical cad cam,9.44,4,0,8,Mechanical Engineer
+CSE,python machine learning ai data analysis,7.13,4,2,6,Data Scientist
+CSE,django python sql backend,8.43,4,0,9,Backend Developer
+CSE,html css javascript react,8.74,2,2,6,Frontend Developer
+CSE,django python sql backend,6.99,4,2,8,Backend Developer
+CSE,nodejs express mongodb api,8.11,3,0,8,Backend Developer
+CSE,cyber security linux networking,6.89,1,2,10,Security Analyst
+CSE,nodejs express mongodb api,6.75,5,2,10,Backend Developer
+CSE,django python sql backend,9.39,4,2,8,Backend Developer
+CSE,autocad solidworks design,6.55,1,1,8,Design Engineer
+CSE,iot sensors arduino embedded,7.68,5,0,7,IoT Engineer
+CSE,autocad solidworks design,6.98,1,0,7,Design Engineer
+CSE,robotics automation design,7.18,3,0,9,Design Engineer
+CSE,python flask apis backend,8.0,4,1,10,Backend Developer
+CSE,structure planning autocad,8.75,5,1,9,Civil Engineer
+CSE,django python sql backend,9.03,5,0,6,Backend Developer
+CSE,python machine learning ai data analysis,7.62,2,1,7,Data Scientist
+CSE,aws docker kubernetes cloud,8.63,5,2,6,DevOps Engineer
+CSE,construction surveying site work,7.66,2,1,10,Site Engineer
+CSE,python flask apis backend,6.61,2,1,7,Backend Developer
+CSE,python machine learning ai data analysis,7.88,1,1,6,Data Scientist
+CSE,java spring boot microservices,8.87,1,1,9,Software Engineer
+CSE,cyber security linux networking,7.51,4,1,9,Security Analyst
+CSE,embedded c microcontrollers,7.91,3,0,10,Embedded Engineer
+CSE,ai deep learning neural networks,8.61,5,2,8,AI Engineer
+CSE,python flask apis backend,7.27,3,2,10,Backend Developer
+CSE,iot sensors arduino embedded,7.64,2,1,9,IoT Engineer
+CSE,python machine learning ai data analysis,7.64,3,0,6,Data Scientist
+CSE,construction surveying site work,9.37,4,0,6,Site Engineer
+CSE,autocad solidworks design,8.81,2,0,7,Design Engineer
+CSE,structure planning autocad,8.1,5,1,10,Civil Engineer
+CSE,signal processing electronics,7.69,4,0,10,Embedded Engineer
+CSE,django python sql backend,9.08,5,2,9,Backend Developer
+CSE,nodejs express mongodb api,8.36,4,0,7,Backend Developer
+CSE,structure planning autocad,8.21,5,2,7,Civil Engineer
+CSE,signal processing electronics,8.03,4,1,8,Embedded Engineer
+CSE,autocad solidworks design,9.33,1,0,9,Design Engineer
+CSE,html css javascript react,8.41,2,0,10,Frontend Developer
+CSE,construction surveying site work,6.8,4,2,7,Site Engineer
+CSE,robotics automation design,7.39,4,0,7,Design Engineer
+CSE,structure planning autocad,8.19,3,1,9,Civil Engineer
+CSE,structure planning autocad,7.05,5,2,8,Civil Engineer
+CSE,python machine learning ai data analysis,8.15,3,0,10,Data Scientist
+CSE,python flask apis backend,7.54,2,0,6,Backend Developer
+CSE,ai deep learning neural networks,7.17,5,0,10,AI Engineer
+CSE,thermal systems manufacturing,8.06,1,1,7,Mechanical Engineer
+CSE,nodejs express mongodb api,8.17,5,1,7,Backend Developer
+CSE,robotics automation design,8.32,5,0,7,Design Engineer
+CSE,robotics automation design,7.93,3,1,7,Design Engineer
+CSE,signal processing electronics,8.68,3,0,9,Embedded Engineer
+CSE,aws docker kubernetes cloud,7.85,1,0,9,DevOps Engineer
+CSE,aws docker kubernetes cloud,6.95,1,1,10,DevOps Engineer
+CSE,verilog vlsi design circuits,8.77,1,2,8,Hardware Engineer
+CSE,react node mongodb fullstack,8.32,5,1,7,Full Stack Developer
+CSE,iot sensors arduino embedded,8.49,2,2,8,IoT Engineer
+CSE,iot sensors arduino embedded,8.33,4,2,10,IoT Engineer
+CSE,flutter mobile apps firebase,9.0,2,0,7,Mobile App Developer
+CSE,autocad solidworks design,6.84,3,2,6,Design Engineer
+CSE,mechanical cad cam,6.55,1,0,7,Mechanical Engineer
+CSE,cyber security linux networking,8.19,5,1,8,Security Analyst
+CSE,mechanical cad cam,7.73,1,0,10,Mechanical Engineer
+CSE,python machine learning ai data analysis,7.7,1,0,9,Data Scientist
+CSE,iot sensors arduino embedded,8.0,4,1,7,IoT Engineer
+CSE,html css javascript react,6.92,5,2,8,Frontend Developer
+CSE,html css javascript react,8.65,3,0,8,Frontend Developer
+CSE,robotics automation design,7.62,4,1,9,Design Engineer
+CSE,construction surveying site work,7.53,3,2,9,Site Engineer
+CSE,ai deep learning neural networks,9.36,1,1,9,AI Engineer
+CSE,structure planning autocad,8.6,1,1,9,Civil Engineer
+CSE,nodejs express mongodb api,7.11,2,2,7,Backend Developer
+CSE,signal processing electronics,9.44,5,0,9,Embedded Engineer
+CSE,autocad solidworks design,7.98,2,1,6,Design Engineer
+CSE,html css javascript react,9.47,5,2,10,Frontend Developer
+CSE,mechanical cad cam,8.8,2,1,7,Mechanical Engineer
+CSE,html css javascript react,8.1,5,2,6,Frontend Developer
+CSE,python flask apis backend,6.53,2,0,9,Backend Developer
+CSE,html css javascript react,7.04,3,1,8,Frontend Developer
+CSE,infrastructure design planning,7.97,1,2,8,Site Engineer
+CSE,infrastructure design planning,9.46,3,2,7,Site Engineer
+CSE,signal processing electronics,9.11,3,1,8,Embedded Engineer
+CSE,structure planning autocad,7.01,2,1,10,Civil Engineer
+CSE,robotics automation design,7.64,5,1,9,Design Engineer
+CSE,autocad solidworks design,7.72,4,2,10,Design Engineer
+CSE,python flask apis backend,6.52,5,0,6,Backend Developer
+CSE,infrastructure design planning,8.25,3,0,6,Site Engineer
+CSE,aws docker kubernetes cloud,7.33,5,2,7,DevOps Engineer
+CSE,java spring boot microservices,6.78,5,1,7,Software Engineer
+CSE,python machine learning ai data analysis,8.39,1,1,9,Data Scientist
+CSE,structure planning autocad,6.78,4,0,9,Civil Engineer
+CSE,thermal systems manufacturing,8.02,4,1,10,Mechanical Engineer
+CSE,react node mongodb fullstack,9.46,5,1,6,Full Stack Developer
+CSE,verilog vlsi design circuits,7.6,4,0,9,Hardware Engineer
+CSE,verilog vlsi design circuits,8.02,3,0,9,Hardware Engineer
+CSE,signal processing electronics,7.84,2,2,8,Embedded Engineer
+CSE,cyber security linux networking,6.93,5,1,9,Security Analyst
+CSE,infrastructure design planning,9.46,4,2,6,Site Engineer
+CSE,iot sensors arduino embedded,7.54,4,1,10,IoT Engineer
+CSE,python machine learning ai data analysis,9.17,5,1,6,Data Scientist
+CSE,nodejs express mongodb api,9.25,2,0,10,Backend Developer
+CSE,signal processing electronics,8.64,1,0,8,Embedded Engineer
+CSE,autocad solidworks design,7.02,5,0,8,Design Engineer
+CSE,geotechnical civil engineering,8.43,5,0,9,Civil Engineer
+CSE,ai deep learning neural networks,7.65,4,1,8,AI Engineer
+CSE,verilog vlsi design circuits,6.77,5,0,6,Hardware Engineer
+CSE,nodejs express mongodb api,6.67,1,2,8,Backend Developer
+CSE,html css javascript react,7.55,2,2,8,Frontend Developer
+CSE,autocad solidworks design,7.44,5,1,6,Design Engineer
+CSE,python machine learning ai data analysis,8.52,5,2,6,Data Scientist
+CSE,aws docker kubernetes cloud,9.34,5,1,7,DevOps Engineer
+CSE,iot sensors arduino embedded,8.31,2,0,10,IoT Engineer
+CSE,autocad solidworks design,7.96,3,0,9,Design Engineer
+CSE,flutter mobile apps firebase,8.43,3,0,8,Mobile App Developer
+CSE,verilog vlsi design circuits,7.24,1,1,7,Hardware Engineer
+CSE,html css javascript react,9.43,1,1,6,Frontend Developer
+CSE,react node mongodb fullstack,6.73,4,1,6,Full Stack Developer
+CSE,mechanical cad cam,8.0,4,2,9,Mechanical Engineer
+CSE,react node mongodb fullstack,6.61,4,1,9,Full Stack Developer
+CSE,autocad solidworks design,9.38,3,1,9,Design Engineer
+CSE,geotechnical civil engineering,9.45,4,0,10,Civil Engineer
+CSE,verilog vlsi design circuits,7.35,3,2,7,Hardware Engineer
+CSE,thermal systems manufacturing,6.59,3,2,10,Mechanical Engineer
+CSE,robotics automation design,8.42,5,0,7,Design Engineer
+CSE,infrastructure design planning,6.77,1,0,8,Site Engineer
+CSE,thermal systems manufacturing,7.01,1,1,6,Mechanical Engineer
+CSE,nodejs express mongodb api,7.3,5,1,8,Backend Developer
+CSE,iot sensors arduino embedded,8.22,5,0,10,IoT Engineer
+CSE,python machine learning ai data analysis,8.12,2,0,8,Data Scientist
+CSE,aws docker kubernetes cloud,6.68,3,2,7,DevOps Engineer
+CSE,thermal systems manufacturing,7.96,2,2,7,Mechanical Engineer
+CSE,infrastructure design planning,7.43,2,1,10,Site Engineer
+CSE,robotics automation design,6.97,4,1,7,Design Engineer
+CSE,ai deep learning neural networks,7.08,3,2,7,AI Engineer
+CSE,java spring boot microservices,8.86,5,0,9,Software Engineer
+CSE,cyber security linux networking,8.92,5,2,10,Security Analyst
+CSE,aws docker kubernetes cloud,6.8,3,0,7,DevOps Engineer
+CSE,robotics automation design,7.66,5,2,7,Design Engineer
+CSE,construction surveying site work,8.14,3,1,9,Site Engineer
+CSE,verilog vlsi design circuits,8.16,2,0,10,Hardware Engineer
+CSE,aws docker kubernetes cloud,7.17,4,1,8,DevOps Engineer
+CSE,flutter mobile apps firebase,6.69,3,2,7,Mobile App Developer
+CSE,python machine learning ai data analysis,7.01,1,1,10,Data Scientist
+CSE,construction surveying site work,9.18,2,1,7,Site Engineer
+CSE,robotics automation design,7.42,3,0,7,Design Engineer
+CSE,structure planning autocad,8.46,3,0,6,Civil Engineer
+CSE,python flask apis backend,9.16,1,0,10,Backend Developer
+CSE,autocad solidworks design,8.52,5,1,8,Design Engineer
+CSE,aws docker kubernetes cloud,8.87,3,2,6,DevOps Engineer
+CSE,aws docker kubernetes cloud,7.49,5,1,6,DevOps Engineer
+CSE,mechanical cad cam,8.92,3,2,10,Mechanical Engineer
+CSE,nodejs express mongodb api,6.78,3,0,6,Backend Developer
+CSE,java spring boot microservices,7.64,1,2,7,Software Engineer
+CSE,mechanical cad cam,9.34,3,1,9,Mechanical Engineer
+CSE,python flask apis backend,8.07,5,1,6,Backend Developer
+CSE,java spring boot microservices,7.88,1,0,9,Software Engineer
+CSE,thermal systems manufacturing,9.34,3,1,8,Mechanical Engineer
+CSE,signal processing electronics,8.74,1,0,9,Embedded Engineer
+CSE,react node mongodb fullstack,9.2,1,2,6,Full Stack Developer
+CSE,iot sensors arduino embedded,7.14,1,1,7,IoT Engineer
+CSE,cyber security linux networking,7.02,3,1,9,Security Analyst
+CSE,python flask apis backend,8.18,5,2,6,Backend Developer
+CSE,autocad solidworks design,6.78,3,1,6,Design Engineer
+CSE,react node mongodb fullstack,8.32,3,1,6,Full Stack Developer
+CSE,nodejs express mongodb api,7.65,5,1,9,Backend Developer
+CSE,react node mongodb fullstack,8.08,5,2,10,Full Stack Developer
+CSE,python machine learning ai data analysis,8.63,1,1,6,Data Scientist
+CSE,structure planning autocad,8.85,5,1,6,Civil Engineer
+CSE,react node mongodb fullstack,8.33,1,1,10,Full Stack Developer
+CSE,html css javascript react,7.65,2,2,9,Frontend Developer
+CSE,cyber security linux networking,7.53,4,2,7,Security Analyst
+CSE,python machine learning ai data analysis,6.97,2,2,8,Data Scientist
+CSE,thermal systems manufacturing,8.64,3,2,9,Mechanical Engineer
+CSE,infrastructure design planning,8.94,4,1,8,Site Engineer
+CSE,structure planning autocad,8.67,5,2,7,Civil Engineer
+CSE,python flask apis backend,7.63,4,1,9,Backend Developer
+CSE,html css javascript react,7.58,5,1,8,Frontend Developer
+CSE,construction surveying site work,7.84,3,1,9,Site Engineer
+CSE,html css javascript react,7.78,3,2,6,Frontend Developer
+CSE,java spring boot microservices,7.5,2,0,8,Software Engineer
+CSE,aws docker kubernetes cloud,8.08,3,2,7,DevOps Engineer
+CSE,structure planning autocad,8.85,3,1,6,Civil Engineer
+CSE,ai deep learning neural networks,6.76,5,0,9,AI Engineer
+CSE,ai deep learning neural networks,8.45,2,0,8,AI Engineer
+CSE,django python sql backend,9.33,5,0,6,Backend Developer
+CSE,nodejs express mongodb api,7.62,3,2,7,Backend Developer
+CSE,iot sensors arduino embedded,6.56,2,1,9,IoT Engineer
+CSE,mechanical cad cam,6.74,4,0,6,Mechanical Engineer
+CSE,nodejs express mongodb api,8.31,5,2,6,Backend Developer
+CSE,iot sensors arduino embedded,8.16,1,0,9,IoT Engineer
+CSE,cyber security linux networking,7.65,4,1,10,Security Analyst
+CSE,signal processing electronics,8.85,1,2,10,Embedded Engineer
+CSE,thermal systems manufacturing,7.57,5,2,6,Mechanical Engineer
+CSE,signal processing electronics,7.14,3,1,6,Embedded Engineer
+CSE,python flask apis backend,6.85,1,2,10,Backend Developer
+CSE,mechanical cad cam,7.96,4,1,8,Mechanical Engineer
+CSE,flutter mobile apps firebase,8.4,4,1,10,Mobile App Developer
+CSE,aws docker kubernetes cloud,8.77,2,1,9,DevOps Engineer
+CSE,java spring boot microservices,8.27,1,1,10,Software Engineer
+CSE,ai deep learning neural networks,8.75,2,0,8,AI Engineer
+CSE,cyber security linux networking,7.5,2,2,10,Security Analyst
+CSE,mechanical cad cam,7.91,1,0,8,Mechanical Engineer
+CSE,structure planning autocad,9.28,5,2,9,Civil Engineer
+CSE,java spring boot microservices,8.99,5,2,10,Software Engineer
+CSE,signal processing electronics,7.35,4,2,10,Embedded Engineer
+CSE,django python sql backend,9.42,4,2,6,Backend Developer
+CSE,ai deep learning neural networks,8.58,1,1,6,AI Engineer
+CSE,python machine learning ai data analysis,7.24,5,1,6,Data Scientist
+CSE,robotics automation design,9.06,1,1,6,Design Engineer
+CSE,flutter mobile apps firebase,6.85,2,0,10,Mobile App Developer
+CSE,python flask apis backend,8.37,2,0,7,Backend Developer
+CSE,flutter mobile apps firebase,7.67,5,2,7,Mobile App Developer
+CSE,python flask apis backend,7.54,4,1,9,Backend Developer
+CSE,nodejs express mongodb api,7.16,3,2,8,Backend Developer
+CSE,structure planning autocad,6.97,5,1,7,Civil Engineer
+CSE,ai deep learning neural networks,8.98,1,2,8,AI Engineer
+CSE,thermal systems manufacturing,7.57,5,2,9,Mechanical Engineer
+CSE,html css javascript react,7.69,1,2,8,Frontend Developer
+CSE,verilog vlsi design circuits,7.62,3,0,7,Hardware Engineer
+CSE,cyber security linux networking,8.07,5,2,6,Security Analyst
+CSE,python machine learning ai data analysis,9.39,5,1,9,Data Scientist
+CSE,mechanical cad cam,8.2,2,1,6,Mechanical Engineer
+CSE,python flask apis backend,7.48,2,1,10,Backend Developer
+CSE,geotechnical civil engineering,6.76,3,0,7,Civil Engineer
+CSE,infrastructure design planning,9.08,2,2,6,Site Engineer
+CSE,autocad solidworks design,8.76,5,0,8,Design Engineer
+CSE,robotics automation design,7.84,5,1,10,Design Engineer
+CSE,thermal systems manufacturing,8.21,3,0,8,Mechanical Engineer
+CSE,thermal systems manufacturing,8.65,1,2,9,Mechanical Engineer
+CSE,python flask apis backend,6.63,3,0,6,Backend Developer
+CSE,ai deep learning neural networks,7.41,5,2,10,AI Engineer
+CSE,robotics automation design,8.05,1,2,7,Design Engineer
+CSE,mechanical cad cam,9.34,3,1,7,Mechanical Engineer
+CSE,signal processing electronics,7.09,4,1,10,Embedded Engineer
+CSE,mechanical cad cam,9.06,5,1,8,Mechanical Engineer
+CSE,ai deep learning neural networks,8.97,4,2,10,AI Engineer
+CSE,verilog vlsi design circuits,6.7,3,2,6,Hardware Engineer
+CSE,html css javascript react,9.25,2,1,8,Frontend Developer
+CSE,construction surveying site work,9.45,1,0,7,Site Engineer
+CSE,embedded c microcontrollers,8.02,1,2,6,Embedded Engineer
+CSE,django python sql backend,8.7,4,1,8,Backend Developer
+CSE,java spring boot microservices,8.73,4,0,6,Software Engineer
+CSE,cyber security linux networking,8.87,2,2,7,Security Analyst
+CSE,robotics automation design,7.62,5,2,6,Design Engineer
+CSE,iot sensors arduino embedded,8.67,1,0,10,IoT Engineer
+CSE,django python sql backend,6.94,3,1,10,Backend Developer
+CSE,thermal systems manufacturing,6.7,1,1,6,Mechanical Engineer
+CSE,structure planning autocad,8.17,3,1,10,Civil Engineer
+CSE,structure planning autocad,7.98,5,0,10,Civil Engineer
+CSE,geotechnical civil engineering,6.7,4,1,6,Civil Engineer
+CSE,flutter mobile apps firebase,7.78,4,0,10,Mobile App Developer
+CSE,embedded c microcontrollers,8.78,1,0,8,Embedded Engineer
+CSE,verilog vlsi design circuits,6.76,1,0,6,Hardware Engineer
+CSE,signal processing electronics,8.6,5,1,8,Embedded Engineer
+CSE,infrastructure design planning,7.96,5,0,9,Site Engineer
+CSE,java spring boot microservices,8.08,4,2,9,Software Engineer
+CSE,html css javascript react,8.25,1,1,7,Frontend Developer
+CSE,construction surveying site work,8.03,2,0,6,Site Engineer
+CSE,mechanical cad cam,6.88,4,2,9,Mechanical Engineer
+CSE,construction surveying site work,7.6,5,1,7,Site Engineer
+CSE,flutter mobile apps firebase,7.23,1,0,8,Mobile App Developer
+CSE,python machine learning ai data analysis,6.7,5,2,9,Data Scientist
+CSE,robotics automation design,9.37,5,1,9,Design Engineer
+CSE,react node mongodb fullstack,9.44,1,0,9,Full Stack Developer
+CSE,thermal systems manufacturing,7.3,3,1,6,Mechanical Engineer
+CSE,geotechnical civil engineering,6.82,2,1,9,Civil Engineer
+CSE,ai deep learning neural networks,7.65,1,1,7,AI Engineer
+CSE,autocad solidworks design,8.7,2,0,9,Design Engineer
+CSE,autocad solidworks design,8.87,2,0,7,Design Engineer
+CSE,mechanical cad cam,6.51,2,2,7,Mechanical Engineer
+CSE,aws docker kubernetes cloud,9.3,5,1,6,DevOps Engineer
+CSE,thermal systems manufacturing,8.48,5,0,8,Mechanical Engineer
+CSE,verilog vlsi design circuits,9.29,5,0,9,Hardware Engineer
+CSE,cyber security linux networking,7.14,1,2,8,Security Analyst
+CSE,robotics automation design,9.16,2,0,7,Design Engineer
+CSE,python machine learning ai data analysis,8.49,1,2,9,Data Scientist
+CSE,python flask apis backend,8.18,4,2,6,Backend Developer
+CSE,infrastructure design planning,8.61,2,1,9,Site Engineer
+CSE,java spring boot microservices,7.36,5,2,6,Software Engineer
+CSE,verilog vlsi design circuits,9.41,5,2,7,Hardware Engineer
+CSE,cyber security linux networking,7.6,1,0,8,Security Analyst
+CSE,embedded c microcontrollers,9.12,2,2,10,Embedded Engineer
+CSE,construction surveying site work,7.43,5,1,9,Site Engineer
+CSE,html css javascript react,8.96,4,2,8,Frontend Developer
+CSE,aws docker kubernetes cloud,7.17,2,1,8,DevOps Engineer
+CSE,iot sensors arduino embedded,8.62,4,1,7,IoT Engineer
+CSE,embedded c microcontrollers,7.6,2,0,10,Embedded Engineer
+CSE,cyber security linux networking,7.97,4,1,10,Security Analyst
+CSE,ai deep learning neural networks,6.72,4,0,10,AI Engineer
+CSE,infrastructure design planning,9.14,4,2,9,Site Engineer
+CSE,verilog vlsi design circuits,8.17,4,0,9,Hardware Engineer
+CSE,autocad solidworks design,6.96,1,1,10,Design Engineer
+CSE,structure planning autocad,7.86,3,0,10,Civil Engineer
+CSE,ai deep learning neural networks,8.0,4,0,6,AI Engineer
+CSE,html css javascript react,9.35,1,1,8,Frontend Developer
+CSE,iot sensors arduino embedded,6.59,2,0,8,IoT Engineer
+CSE,django python sql backend,7.77,1,0,7,Backend Developer
+CSE,iot sensors arduino embedded,8.55,5,2,7,IoT Engineer
+CSE,react node mongodb fullstack,8.13,3,0,8,Full Stack Developer
+CSE,construction surveying site work,9.27,1,2,9,Site Engineer
+CSE,verilog vlsi design circuits,8.5,2,2,8,Hardware Engineer
+CSE,aws docker kubernetes cloud,7.97,4,1,6,DevOps Engineer
+CSE,flutter mobile apps firebase,6.92,2,0,6,Mobile App Developer
+CSE,django python sql backend,9.49,3,1,9,Backend Developer
+CSE,infrastructure design planning,8.79,5,0,6,Site Engineer
+CSE,flutter mobile apps firebase,9.44,5,2,7,Mobile App Developer
+CSE,robotics automation design,6.7,4,0,6,Design Engineer
+CSE,verilog vlsi design circuits,7.6,3,2,10,Hardware Engineer
+CSE,thermal systems manufacturing,7.33,2,0,8,Mechanical Engineer
+CSE,aws docker kubernetes cloud,6.65,2,2,10,DevOps Engineer
+CSE,geotechnical civil engineering,6.79,3,0,7,Civil Engineer
+CSE,html css javascript react,9.46,1,1,7,Frontend Developer
+CSE,signal processing electronics,7.05,5,0,6,Embedded Engineer
+CSE,ai deep learning neural networks,7.86,1,2,8,AI Engineer
+CSE,signal processing electronics,7.13,5,1,9,Embedded Engineer
+CSE,thermal systems manufacturing,8.06,3,1,8,Mechanical Engineer
+CSE,embedded c microcontrollers,9.0,2,0,8,Embedded Engineer
+CSE,python flask apis backend,9.36,5,1,7,Backend Developer
+CSE,flutter mobile apps firebase,7.21,5,2,8,Mobile App Developer
+CSE,nodejs express mongodb api,8.07,3,1,8,Backend Developer
+CSE,iot sensors arduino embedded,8.5,4,1,7,IoT Engineer
+CSE,signal processing electronics,6.96,4,2,9,Embedded Engineer
+CSE,python flask apis backend,7.93,4,0,7,Backend Developer
+CSE,python machine learning ai data analysis,6.7,2,2,10,Data Scientist
+CSE,nodejs express mongodb api,8.87,1,2,6,Backend Developer
+CSE,construction surveying site work,9.49,5,2,9,Site Engineer
+CSE,ai deep learning neural networks,7.18,2,2,8,AI Engineer
+CSE,autocad solidworks design,8.27,2,0,10,Design Engineer
+CSE,mechanical cad cam,7.07,4,0,8,Mechanical Engineer
+CSE,flutter mobile apps firebase,7.79,2,0,8,Mobile App Developer
+CSE,react node mongodb fullstack,8.99,1,0,6,Full Stack Developer
+CSE,signal processing electronics,8.82,4,1,10,Embedded Engineer
+CSE,verilog vlsi design circuits,6.6,1,2,6,Hardware Engineer
+CSE,ai deep learning neural networks,7.09,5,2,7,AI Engineer
+CSE,cyber security linux networking,7.59,2,1,9,Security Analyst
+CSE,cyber security linux networking,7.29,1,2,8,Security Analyst
+CSE,html css javascript react,7.76,4,2,6,Frontend Developer
+CSE,construction surveying site work,8.51,4,2,9,Site Engineer
+CSE,react node mongodb fullstack,8.78,1,0,9,Full Stack Developer
+CSE,iot sensors arduino embedded,6.61,3,1,10,IoT Engineer
+CSE,flutter mobile apps firebase,9.38,5,0,8,Mobile App Developer
+CSE,aws docker kubernetes cloud,7.43,5,2,8,DevOps Engineer
+CSE,structure planning autocad,9.09,5,1,8,Civil Engineer
+CSE,django python sql backend,6.88,4,1,8,Backend Developer
+CSE,mechanical cad cam,8.07,4,1,9,Mechanical Engineer
+CSE,cyber security linux networking,7.42,3,0,7,Security Analyst
+CSE,nodejs express mongodb api,9.18,1,1,6,Backend Developer
+CSE,nodejs express mongodb api,9.34,1,1,7,Backend Developer
+CSE,aws docker kubernetes cloud,7.46,2,1,8,DevOps Engineer
+CSE,django python sql backend,7.63,1,1,9,Backend Developer
+CSE,mechanical cad cam,6.85,4,2,6,Mechanical Engineer
+CSE,infrastructure design planning,7.01,5,1,6,Site Engineer
+CSE,java spring boot microservices,7.97,5,1,8,Software Engineer
+CSE,construction surveying site work,8.26,3,0,9,Site Engineer
+CSE,ai deep learning neural networks,6.67,3,0,7,AI Engineer
+CSE,nodejs express mongodb api,8.3,5,0,6,Backend Developer
+CSE,infrastructure design planning,8.95,2,0,8,Site Engineer
+CSE,autocad solidworks design,7.76,1,0,9,Design Engineer
+CSE,java spring boot microservices,7.8,3,0,9,Software Engineer
+CSE,geotechnical civil engineering,6.58,2,2,7,Civil Engineer
+CSE,signal processing electronics,8.69,5,2,7,Embedded Engineer
+CSE,react node mongodb fullstack,8.88,1,1,7,Full Stack Developer
+CSE,autocad solidworks design,7.15,1,2,8,Design Engineer
+CSE,django python sql backend,7.85,2,1,9,Backend Developer
+CSE,mechanical cad cam,9.05,2,2,7,Mechanical Engineer
+CSE,infrastructure design planning,6.72,4,0,8,Site Engineer
+CSE,python flask apis backend,8.83,5,2,7,Backend Developer
+CSE,signal processing electronics,9.38,1,0,10,Embedded Engineer
+CSE,embedded c microcontrollers,6.71,3,0,8,Embedded Engineer
+CSE,ai deep learning neural networks,8.08,4,2,10,AI Engineer
+CSE,signal processing electronics,8.37,4,2,10,Embedded Engineer
+CSE,robotics automation design,8.83,1,1,9,Design Engineer
+CSE,construction surveying site work,7.71,3,1,8,Site Engineer
+CSE,python machine learning ai data analysis,7.81,5,1,9,Data Scientist
+CSE,flutter mobile apps firebase,8.58,5,1,8,Mobile App Developer
+CSE,react node mongodb fullstack,7.54,5,0,7,Full Stack Developer
+CSE,java spring boot microservices,8.55,3,1,8,Software Engineer
+CSE,django python sql backend,7.15,2,1,6,Backend Developer
+CSE,aws docker kubernetes cloud,7.31,5,1,10,DevOps Engineer
+CSE,aws docker kubernetes cloud,8.08,2,2,6,DevOps Engineer
+CSE,verilog vlsi design circuits,8.29,5,1,10,Hardware Engineer
+CSE,django python sql backend,8.34,4,1,8,Backend Developer
+CSE,django python sql backend,8.91,5,2,9,Backend Developer
+CSE,python machine learning ai data analysis,7.38,1,1,7,Data Scientist
+CSE,aws docker kubernetes cloud,9.03,5,1,8,DevOps Engineer
+CSE,geotechnical civil engineering,8.16,5,0,8,Civil Engineer
+CSE,signal processing electronics,7.61,1,2,9,Embedded Engineer
+CSE,structure planning autocad,7.51,2,1,6,Civil Engineer
+CSE,iot sensors arduino embedded,7.13,4,2,10,IoT Engineer
+CSE,python flask apis backend,7.71,1,1,6,Backend Developer
+CSE,ai deep learning neural networks,9.5,2,0,8,AI Engineer
+CSE,verilog vlsi design circuits,9.14,1,0,7,Hardware Engineer
+CSE,python machine learning ai data analysis,7.16,2,1,7,Data Scientist
+CSE,thermal systems manufacturing,9.37,4,0,8,Mechanical Engineer
+CSE,mechanical cad cam,7.62,4,1,9,Mechanical Engineer
+CSE,html css javascript react,6.75,1,1,10,Frontend Developer
+CSE,react node mongodb fullstack,6.52,3,0,6,Full Stack Developer
+CSE,structure planning autocad,9.36,4,2,9,Civil Engineer
+CSE,geotechnical civil engineering,9.22,4,2,9,Civil Engineer
+CSE,django python sql backend,7.56,4,2,10,Backend Developer
+CSE,aws docker kubernetes cloud,8.82,1,2,7,DevOps Engineer
+CSE,react node mongodb fullstack,6.93,4,2,9,Full Stack Developer
+CSE,autocad solidworks design,6.72,2,1,7,Design Engineer
+CSE,autocad solidworks design,7.5,5,2,7,Design Engineer
+CSE,robotics automation design,7.59,5,1,9,Design Engineer
+CSE,infrastructure design planning,7.93,4,0,7,Site Engineer
+CSE,nodejs express mongodb api,6.6,2,0,6,Backend Developer
+CSE,autocad solidworks design,9.2,1,0,6,Design Engineer
+CSE,nodejs express mongodb api,6.71,1,0,7,Backend Developer
+CSE,python machine learning ai data analysis,7.44,3,2,10,Data Scientist
+CSE,embedded c microcontrollers,7.15,1,0,9,Embedded Engineer
+CSE,ai deep learning neural networks,7.61,4,2,9,AI Engineer
+CSE,aws docker kubernetes cloud,6.74,5,0,10,DevOps Engineer
+CSE,cyber security linux networking,7.47,3,0,7,Security Analyst
+CSE,embedded c microcontrollers,7.85,2,1,8,Embedded Engineer
+CSE,python machine learning ai data analysis,7.01,5,0,8,Data Scientist
+CSE,flutter mobile apps firebase,8.09,3,2,8,Mobile App Developer
+CSE,flutter mobile apps firebase,8.31,5,0,10,Mobile App Developer
+CSE,python machine learning ai data analysis,7.13,3,1,10,Data Scientist
+CSE,python flask apis backend,7.12,4,1,9,Backend Developer
+CSE,html css javascript react,7.67,1,2,6,Frontend Developer
+CSE,verilog vlsi design circuits,7.49,1,0,10,Hardware Engineer
+CSE,thermal systems manufacturing,9.27,3,0,8,Mechanical Engineer
+CSE,iot sensors arduino embedded,8.44,1,2,10,IoT Engineer
+CSE,mechanical cad cam,7.54,5,1,8,Mechanical Engineer
+CSE,django python sql backend,9.02,1,2,7,Backend Developer
+CSE,thermal systems manufacturing,7.71,4,2,10,Mechanical Engineer
+CSE,nodejs express mongodb api,8.15,3,0,7,Backend Developer
+CSE,python machine learning ai data analysis,9.22,3,1,7,Data Scientist
+CSE,autocad solidworks design,6.72,1,1,8,Design Engineer
+CSE,python flask apis backend,9.1,4,1,6,Backend Developer
+CSE,react node mongodb fullstack,6.95,2,2,7,Full Stack Developer
+CSE,nodejs express mongodb api,9.39,3,2,10,Backend Developer
+CSE,python machine learning ai data analysis,7.05,1,2,9,Data Scientist
+CSE,structure planning autocad,7.84,3,2,9,Civil Engineer
+CSE,python machine learning ai data analysis,9.3,1,1,10,Data Scientist
+CSE,geotechnical civil engineering,9.36,1,0,7,Civil Engineer
+CSE,thermal systems manufacturing,9.19,2,0,10,Mechanical Engineer
+CSE,java spring boot microservices,7.99,5,2,9,Software Engineer
+CSE,iot sensors arduino embedded,6.71,1,2,7,IoT Engineer
+CSE,thermal systems manufacturing,6.95,3,1,8,Mechanical Engineer
+CSE,aws docker kubernetes cloud,6.79,1,1,7,DevOps Engineer
+CSE,robotics automation design,7.31,2,0,8,Design Engineer
+CSE,signal processing electronics,8.76,1,1,10,Embedded Engineer
+CSE,infrastructure design planning,7.52,5,2,9,Site Engineer
+CSE,verilog vlsi design circuits,8.25,4,2,9,Hardware Engineer
+CSE,structure planning autocad,7.64,4,0,7,Civil Engineer
+CSE,cyber security linux networking,8.14,5,1,7,Security Analyst
+CSE,robotics automation design,7.32,5,2,8,Design Engineer
+CSE,infrastructure design planning,8.19,5,0,8,Site Engineer
+CSE,aws docker kubernetes cloud,7.22,2,2,10,DevOps Engineer
+CSE,cyber security linux networking,7.58,1,1,10,Security Analyst
+CSE,java spring boot microservices,6.56,2,0,10,Software Engineer
+CSE,embedded c microcontrollers,6.72,3,0,6,Embedded Engineer
+CSE,geotechnical civil engineering,6.65,1,1,10,Civil Engineer
+CSE,robotics automation design,9.12,1,1,10,Design Engineer
+CSE,ai deep learning neural networks,9.04,1,1,8,AI Engineer
+CSE,embedded c microcontrollers,8.8,5,2,9,Embedded Engineer
+CSE,thermal systems manufacturing,6.56,5,2,7,Mechanical Engineer
+CSE,html css javascript react,7.96,2,2,9,Frontend Developer
+CSE,ai deep learning neural networks,8.5,3,0,7,AI Engineer
+CSE,infrastructure design planning,6.61,3,1,6,Site Engineer
+CSE,thermal systems manufacturing,9.42,1,0,7,Mechanical Engineer
+CSE,structure planning autocad,8.72,2,0,9,Civil Engineer
+CSE,verilog vlsi design circuits,8.08,4,0,9,Hardware Engineer
+CSE,react node mongodb fullstack,8.28,4,1,8,Full Stack Developer
+CSE,iot sensors arduino embedded,7.95,5,0,10,IoT Engineer
+CSE,nodejs express mongodb api,8.44,3,2,8,Backend Developer
+CSE,autocad solidworks design,6.57,4,2,10,Design Engineer
+CSE,react node mongodb fullstack,9.15,3,1,10,Full Stack Developer
+CSE,mechanical cad cam,6.95,3,2,8,Mechanical Engineer
+CSE,cyber security linux networking,7.66,2,2,9,Security Analyst
+CSE,structure planning autocad,8.88,4,1,7,Civil Engineer
+CSE,thermal systems manufacturing,7.75,3,1,9,Mechanical Engineer
+CSE,geotechnical civil engineering,7.98,2,0,7,Civil Engineer
+CSE,ai deep learning neural networks,7.67,4,0,9,AI Engineer
+CSE,flutter mobile apps firebase,8.43,5,0,6,Mobile App Developer
+CSE,python machine learning ai data analysis,9.04,2,2,9,Data Scientist
+CSE,thermal systems manufacturing,7.79,1,0,8,Mechanical Engineer
+CSE,django python sql backend,7.51,2,2,8,Backend Developer
+CSE,verilog vlsi design circuits,7.4,2,2,9,Hardware Engineer
+CSE,aws docker kubernetes cloud,6.62,1,0,10,DevOps Engineer
+CSE,robotics automation design,8.52,4,0,6,Design Engineer
+CSE,html css javascript react,7.99,4,0,6,Frontend Developer
+CSE,iot sensors arduino embedded,8.52,5,0,9,IoT Engineer
+CSE,structure planning autocad,8.75,3,0,9,Civil Engineer
+CSE,nodejs express mongodb api,7.14,5,0,8,Backend Developer
+CSE,aws docker kubernetes cloud,7.21,1,1,9,DevOps Engineer
+CSE,html css javascript react,9.48,3,2,8,Frontend Developer
+CSE,geotechnical civil engineering,6.85,1,2,8,Civil Engineer
+CSE,react node mongodb fullstack,8.41,2,2,10,Full Stack Developer
+CSE,infrastructure design planning,8.68,2,0,10,Site Engineer
+CSE,iot sensors arduino embedded,8.64,3,0,6,IoT Engineer
+CSE,python machine learning ai data analysis,7.98,3,2,7,Data Scientist
+CSE,verilog vlsi design circuits,7.33,4,0,8,Hardware Engineer
+CSE,flutter mobile apps firebase,8.99,4,0,6,Mobile App Developer
+CSE,iot sensors arduino embedded,6.5,4,0,6,IoT Engineer
+CSE,embedded c microcontrollers,6.71,2,1,7,Embedded Engineer
+CSE,construction surveying site work,7.28,5,0,10,Site Engineer
+CSE,thermal systems manufacturing,6.89,2,0,6,Mechanical Engineer
+CSE,aws docker kubernetes cloud,7.95,1,0,10,DevOps Engineer
+CSE,python flask apis backend,7.81,3,1,10,Backend Developer
+CSE,django python sql backend,8.86,1,0,10,Backend Developer
+CSE,java spring boot microservices,8.11,3,2,6,Software Engineer
+CSE,verilog vlsi design circuits,7.27,4,1,10,Hardware Engineer
+CSE,signal processing electronics,9.21,4,2,6,Embedded Engineer
+CSE,python machine learning ai data analysis,8.99,2,0,8,Data Scientist
+CSE,java spring boot microservices,8.91,4,2,6,Software Engineer
+CSE,aws docker kubernetes cloud,7.85,4,2,10,DevOps Engineer
+CSE,ai deep learning neural networks,8.38,3,0,10,AI Engineer
+CSE,python machine learning ai data analysis,7.93,3,2,6,Data Scientist
+CSE,construction surveying site work,7.49,2,1,6,Site Engineer
+CSE,react node mongodb fullstack,8.77,3,0,6,Full Stack Developer
+CSE,python flask apis backend,7.79,1,1,6,Backend Developer
+CSE,construction surveying site work,7.74,4,0,10,Site Engineer
+CSE,signal processing electronics,8.98,1,0,6,Embedded Engineer
+CSE,embedded c microcontrollers,9.47,1,1,7,Embedded Engineer
+CSE,robotics automation design,8.73,4,0,8,Design Engineer
+CSE,verilog vlsi design circuits,7.69,2,1,10,Hardware Engineer
+CSE,embedded c microcontrollers,8.51,1,0,8,Embedded Engineer
+CSE,infrastructure design planning,8.84,3,2,6,Site Engineer
+CSE,mechanical cad cam,6.58,5,1,10,Mechanical Engineer
+CSE,iot sensors arduino embedded,8.48,4,2,8,IoT Engineer
+CSE,cyber security linux networking,9.29,3,2,7,Security Analyst
+CSE,verilog vlsi design circuits,8.62,2,0,6,Hardware Engineer
+CSE,python flask apis backend,9.44,3,0,6,Backend Developer
+CSE,python machine learning ai data analysis,7.07,3,2,9,Data Scientist
+CSE,iot sensors arduino embedded,8.49,4,1,8,IoT Engineer
+CSE,verilog vlsi design circuits,6.54,3,1,9,Hardware Engineer
+CSE,nodejs express mongodb api,9.2,3,1,9,Backend Developer
+CSE,signal processing electronics,9.12,1,0,7,Embedded Engineer
+CSE,autocad solidworks design,7.13,5,0,6,Design Engineer
+CSE,python machine learning ai data analysis,7.48,2,0,7,Data Scientist
+CSE,thermal systems manufacturing,7.68,5,1,10,Mechanical Engineer
+CSE,python machine learning ai data analysis,8.14,1,0,10,Data Scientist
+CSE,geotechnical civil engineering,7.77,2,1,6,Civil Engineer
+CSE,signal processing electronics,6.84,2,0,7,Embedded Engineer
+CSE,infrastructure design planning,7.35,2,0,7,Site Engineer
+CSE,nodejs express mongodb api,7.5,2,2,9,Backend Developer
+CSE,django python sql backend,8.55,4,0,9,Backend Developer
+CSE,react node mongodb fullstack,6.55,3,2,6,Full Stack Developer
+CSE,nodejs express mongodb api,7.68,1,1,10,Backend Developer
+CSE,python machine learning ai data analysis,9.21,1,2,7,Data Scientist
+CSE,embedded c microcontrollers,8.46,3,2,8,Embedded Engineer
+CSE,construction surveying site work,7.96,1,1,10,Site Engineer
+CSE,python machine learning ai data analysis,8.71,2,0,7,Data Scientist
+CSE,embedded c microcontrollers,7.96,4,1,10,Embedded Engineer
+CSE,structure planning autocad,7.25,1,0,6,Civil Engineer
+CSE,autocad solidworks design,7.73,5,1,7,Design Engineer
+CSE,django python sql backend,8.48,3,2,10,Backend Developer
+CSE,embedded c microcontrollers,9.0,5,2,8,Embedded Engineer
+CSE,aws docker kubernetes cloud,7.59,2,2,7,DevOps Engineer
+CSE,python flask apis backend,7.69,3,1,10,Backend Developer
+CSE,iot sensors arduino embedded,8.78,2,2,7,IoT Engineer
+CSE,ai deep learning neural networks,9.24,5,1,9,AI Engineer
+CSE,python flask apis backend,8.28,5,2,8,Backend Developer
+CSE,python machine learning ai data analysis,7.13,3,0,7,Data Scientist
+CSE,infrastructure design planning,8.17,3,2,6,Site Engineer
+CSE,iot sensors arduino embedded,9.04,4,1,8,IoT Engineer
+CSE,ai deep learning neural networks,6.7,4,2,10,AI Engineer
+CSE,infrastructure design planning,9.16,3,2,6,Site Engineer
+CSE,html css javascript react,6.61,2,1,7,Frontend Developer
+CSE,verilog vlsi design circuits,7.53,3,0,9,Hardware Engineer
+CSE,python flask apis backend,7.54,2,0,7,Backend Developer
+CSE,java spring boot microservices,7.83,2,2,7,Software Engineer
+CSE,geotechnical civil engineering,8.79,5,1,8,Civil Engineer
+CSE,java spring boot microservices,8.51,5,2,6,Software Engineer
+CSE,html css javascript react,7.36,1,0,10,Frontend Developer
+CSE,geotechnical civil engineering,8.76,3,1,10,Civil Engineer
+CSE,verilog vlsi design circuits,7.81,4,0,8,Hardware Engineer
+CSE,geotechnical civil engineering,7.6,4,2,7,Civil Engineer
+CSE,java spring boot microservices,7.02,3,0,9,Software Engineer
+CSE,construction surveying site work,9.21,5,2,6,Site Engineer
+CSE,html css javascript react,7.76,4,2,9,Frontend Developer
+CSE,infrastructure design planning,6.94,3,1,10,Site Engineer
+CSE,python machine learning ai data analysis,8.95,3,0,6,Data Scientist
+CSE,mechanical cad cam,6.75,1,1,7,Mechanical Engineer
+CSE,react node mongodb fullstack,7.79,3,2,7,Full Stack Developer
+CSE,embedded c microcontrollers,6.61,5,0,6,Embedded Engineer
+CSE,html css javascript react,8.88,2,0,8,Frontend Developer
+CSE,construction surveying site work,8.91,3,1,7,Site Engineer
+CSE,flutter mobile apps firebase,6.76,5,1,9,Mobile App Developer
+CSE,ai deep learning neural networks,6.72,1,0,7,AI Engineer
+CSE,html css javascript react,9.16,5,1,9,Frontend Developer
+CSE,ai deep learning neural networks,9.16,3,2,6,AI Engineer
+CSE,python machine learning ai data analysis,7.96,5,2,9,Data Scientist
+CSE,html css javascript react,7.79,4,1,9,Frontend Developer
+CSE,geotechnical civil engineering,7.4,4,0,6,Civil Engineer
+CSE,thermal systems manufacturing,7.23,5,2,10,Mechanical Engineer
+CSE,aws docker kubernetes cloud,8.12,4,0,10,DevOps Engineer
+CSE,autocad solidworks design,7.31,5,2,9,Design Engineer
+CSE,java spring boot microservices,8.42,5,2,6,Software Engineer
+CSE,django python sql backend,8.65,2,1,8,Backend Developer
+CSE,flutter mobile apps firebase,7.4,5,1,10,Mobile App Developer
+CSE,html css javascript react,7.15,5,1,10,Frontend Developer
+CSE,java spring boot microservices,6.94,4,0,6,Software Engineer
+CSE,embedded c microcontrollers,8.37,2,2,9,Embedded Engineer
+CSE,nodejs express mongodb api,8.9,3,0,8,Backend Developer
+CSE,ai deep learning neural networks,8.37,3,1,10,AI Engineer
+CSE,signal processing electronics,7.21,5,1,7,Embedded Engineer
+CSE,cyber security linux networking,8.42,4,2,7,Security Analyst
+CSE,infrastructure design planning,8.56,3,1,10,Site Engineer
+CSE,django python sql backend,8.81,2,2,9,Backend Developer
+CSE,robotics automation design,7.01,4,1,8,Design Engineer
+CSE,ai deep learning neural networks,6.61,3,2,6,AI Engineer
+CSE,embedded c microcontrollers,9.0,4,0,7,Embedded Engineer
+CSE,cyber security linux networking,9.26,1,0,9,Security Analyst
+CSE,django python sql backend,8.09,4,0,7,Backend Developer
+CSE,verilog vlsi design circuits,7.25,2,0,8,Hardware Engineer
+CSE,verilog vlsi design circuits,7.75,2,1,7,Hardware Engineer
+CSE,iot sensors arduino embedded,7.31,5,2,7,IoT Engineer
+CSE,nodejs express mongodb api,8.18,2,0,7,Backend Developer
+CSE,java spring boot microservices,8.75,4,0,9,Software Engineer
+CSE,nodejs express mongodb api,7.36,1,1,8,Backend Developer
+CSE,html css javascript react,7.15,1,2,8,Frontend Developer
+CSE,flutter mobile apps firebase,8.33,2,2,10,Mobile App Developer
+CSE,geotechnical civil engineering,6.59,3,0,7,Civil Engineer
+CSE,construction surveying site work,8.16,5,0,10,Site Engineer
+CSE,html css javascript react,7.23,4,0,8,Frontend Developer
+CSE,robotics automation design,7.92,2,0,8,Design Engineer
+CSE,python flask apis backend,6.78,1,1,8,Backend Developer
+CSE,geotechnical civil engineering,8.81,4,0,7,Civil Engineer
+CSE,nodejs express mongodb api,8.72,1,0,8,Backend Developer
+CSE,structure planning autocad,9.11,1,2,6,Civil Engineer
+CSE,ai deep learning neural networks,9.39,1,1,10,AI Engineer
+CSE,embedded c microcontrollers,8.43,2,2,9,Embedded Engineer
+CSE,flutter mobile apps firebase,6.88,4,0,8,Mobile App Developer
+CSE,nodejs express mongodb api,9.3,3,1,7,Backend Developer
+CSE,verilog vlsi design circuits,8.16,5,0,8,Hardware Engineer
+CSE,flutter mobile apps firebase,9.43,4,2,7,Mobile App Developer
+CSE,embedded c microcontrollers,9.44,2,0,6,Embedded Engineer
+CSE,python machine learning ai data analysis,8.74,3,0,7,Data Scientist
+CSE,java spring boot microservices,8.93,3,1,8,Software Engineer
+CSE,thermal systems manufacturing,8.44,2,2,10,Mechanical Engineer
+CSE,aws docker kubernetes cloud,9.1,2,0,7,DevOps Engineer
+CSE,cyber security linux networking,7.14,5,2,6,Security Analyst
+CSE,python flask apis backend,6.72,4,2,10,Backend Developer
+CSE,cyber security linux networking,8.3,2,0,10,Security Analyst
+CSE,verilog vlsi design circuits,8.62,4,2,10,Hardware Engineer
+CSE,iot sensors arduino embedded,9.3,3,1,8,IoT Engineer
+CSE,nodejs express mongodb api,7.16,3,0,7,Backend Developer
+CSE,signal processing electronics,8.54,5,0,9,Embedded Engineer
+CSE,thermal systems manufacturing,9.3,2,2,7,Mechanical Engineer
+CSE,python flask apis backend,9.14,5,1,7,Backend Developer
+CSE,robotics automation design,8.19,2,2,8,Design Engineer
+CSE,aws docker kubernetes cloud,7.82,3,1,10,DevOps Engineer
+CSE,ai deep learning neural networks,7.49,5,0,9,AI Engineer
+CSE,django python sql backend,9.45,2,1,8,Backend Developer
+CSE,geotechnical civil engineering,7.57,2,1,9,Civil Engineer
+CSE,aws docker kubernetes cloud,7.08,2,1,10,DevOps Engineer
+CSE,signal processing electronics,6.99,2,0,6,Embedded Engineer
+CSE,embedded c microcontrollers,7.08,5,2,8,Embedded Engineer
+CSE,cyber security linux networking,8.57,1,1,9,Security Analyst
+CSE,infrastructure design planning,7.44,3,1,6,Site Engineer
+CSE,ai deep learning neural networks,8.97,5,0,10,AI Engineer
+CSE,mechanical cad cam,8.21,3,2,7,Mechanical Engineer
+CSE,ai deep learning neural networks,8.38,2,1,6,AI Engineer
+CSE,html css javascript react,6.88,2,2,6,Frontend Developer
+CSE,java spring boot microservices,9.12,3,2,9,Software Engineer
+CSE,embedded c microcontrollers,7.79,5,1,9,Embedded Engineer
+CSE,verilog vlsi design circuits,9.26,4,2,10,Hardware Engineer
+CSE,thermal systems manufacturing,8.73,5,1,7,Mechanical Engineer
+CSE,infrastructure design planning,8.38,4,1,9,Site Engineer
+CSE,structure planning autocad,9.12,3,0,6,Civil Engineer
+CSE,cyber security linux networking,7.43,2,0,9,Security Analyst
+CSE,django python sql backend,8.69,2,0,8,Backend Developer
+CSE,structure planning autocad,6.96,3,1,9,Civil Engineer
+CSE,python machine learning ai data analysis,7.79,4,2,7,Data Scientist
+CSE,ai deep learning neural networks,8.24,4,0,9,AI Engineer
+CSE,thermal systems manufacturing,9.38,3,2,9,Mechanical Engineer
+CSE,react node mongodb fullstack,7.37,4,1,10,Full Stack Developer
+CSE,iot sensors arduino embedded,6.7,2,1,9,IoT Engineer
+CSE,structure planning autocad,7.12,5,2,7,Civil Engineer
+CSE,cyber security linux networking,7.21,1,2,8,Security Analyst
+CSE,react node mongodb fullstack,6.64,1,0,6,Full Stack Developer
+CSE,iot sensors arduino embedded,7.77,5,1,6,IoT Engineer
+CSE,aws docker kubernetes cloud,7.19,3,1,9,DevOps Engineer
+CSE,python flask apis backend,8.99,5,2,8,Backend Developer
+CSE,python machine learning ai data analysis,7.43,4,2,7,Data Scientist
+CSE,iot sensors arduino embedded,9.29,5,2,9,IoT Engineer
+CSE,django python sql backend,6.77,2,0,10,Backend Developer
+CSE,java spring boot microservices,7.94,2,2,8,Software Engineer
+CSE,thermal systems manufacturing,7.59,4,1,10,Mechanical Engineer
+CSE,autocad solidworks design,6.51,3,1,9,Design Engineer
+CSE,embedded c microcontrollers,8.27,4,2,8,Embedded Engineer
+CSE,geotechnical civil engineering,8.0,2,1,6,Civil Engineer
+CSE,construction surveying site work,6.75,2,0,6,Site Engineer
+CSE,nodejs express mongodb api,9.46,1,0,6,Backend Developer
+CSE,cyber security linux networking,6.79,5,2,9,Security Analyst
+CSE,structure planning autocad,8.11,3,2,7,Civil Engineer
+CSE,infrastructure design planning,7.63,5,2,10,Site Engineer
+CSE,construction surveying site work,7.64,1,0,10,Site Engineer
+CSE,infrastructure design planning,9.41,2,0,6,Site Engineer
+CSE,signal processing electronics,8.35,5,1,10,Embedded Engineer
+CSE,aws docker kubernetes cloud,7.83,1,1,7,DevOps Engineer
+CSE,mechanical cad cam,7.19,5,1,6,Mechanical Engineer
+CSE,autocad solidworks design,7.62,2,0,10,Design Engineer
+CSE,python machine learning ai data analysis,9.43,5,0,9,Data Scientist
+CSE,mechanical cad cam,8.68,1,1,6,Mechanical Engineer
+CSE,robotics automation design,7.16,2,0,7,Design Engineer
+CSE,construction surveying site work,8.52,1,1,7,Site Engineer
+CSE,html css javascript react,9.25,3,0,7,Frontend Developer
+CSE,aws docker kubernetes cloud,9.37,2,0,6,DevOps Engineer
+CSE,html css javascript react,8.45,5,2,7,Frontend Developer
+CSE,geotechnical civil engineering,7.85,2,0,9,Civil Engineer
+CSE,java spring boot microservices,8.37,3,0,9,Software Engineer
+CSE,nodejs express mongodb api,7.12,1,1,6,Backend Developer
+CSE,embedded c microcontrollers,9.31,4,2,6,Embedded Engineer
+CSE,python machine learning ai data analysis,8.87,4,1,6,Data Scientist
+CSE,cyber security linux networking,7.19,3,2,9,Security Analyst
+CSE,autocad solidworks design,8.26,1,0,8,Design Engineer
+CSE,verilog vlsi design circuits,9.03,1,2,10,Hardware Engineer
+CSE,structure planning autocad,9.49,3,1,7,Civil Engineer
+CSE,signal processing electronics,8.76,5,1,6,Embedded Engineer
+CSE,react node mongodb fullstack,7.66,5,0,6,Full Stack Developer
+CSE,structure planning autocad,9.4,4,1,10,Civil Engineer
+CSE,flutter mobile apps firebase,7.73,5,0,7,Mobile App Developer
+CSE,structure planning autocad,7.36,5,1,10,Civil Engineer
+CSE,aws docker kubernetes cloud,6.97,4,2,10,DevOps Engineer
+CSE,nodejs express mongodb api,9.37,3,0,9,Backend Developer
+CSE,iot sensors arduino embedded,6.92,5,0,10,IoT Engineer
+CSE,java spring boot microservices,6.56,5,1,8,Software Engineer
+CSE,geotechnical civil engineering,9.3,1,2,9,Civil Engineer
+CSE,construction surveying site work,9.04,4,0,6,Site Engineer
+CSE,embedded c microcontrollers,8.87,5,0,7,Embedded Engineer
+CSE,infrastructure design planning,8.72,5,1,7,Site Engineer
+CSE,flutter mobile apps firebase,6.62,2,1,10,Mobile App Developer
+CSE,java spring boot microservices,7.48,2,1,9,Software Engineer
+CSE,signal processing electronics,8.68,1,1,9,Embedded Engineer
+CSE,ai deep learning neural networks,6.52,4,2,7,AI Engineer
+CSE,cyber security linux networking,7.85,3,2,9,Security Analyst
+CSE,cyber security linux networking,7.14,4,2,6,Security Analyst
+CSE,verilog vlsi design circuits,8.57,3,0,10,Hardware Engineer
+CSE,python machine learning ai data analysis,6.51,4,2,8,Data Scientist
+CSE,nodejs express mongodb api,7.51,1,2,6,Backend Developer
+CSE,thermal systems manufacturing,8.82,3,0,9,Mechanical Engineer
+CSE,infrastructure design planning,7.41,5,0,6,Site Engineer
+CSE,robotics automation design,6.56,1,1,7,Design Engineer
+CSE,embedded c microcontrollers,7.95,2,2,8,Embedded Engineer
+CSE,react node mongodb fullstack,7.38,5,1,8,Full Stack Developer
+CSE,thermal systems manufacturing,6.61,2,2,6,Mechanical Engineer
+CSE,autocad solidworks design,6.64,5,1,7,Design Engineer
+CSE,django python sql backend,9.47,3,1,8,Backend Developer
+CSE,cyber security linux networking,8.85,2,1,6,Security Analyst
+CSE,iot sensors arduino embedded,6.57,3,2,9,IoT Engineer
+CSE,autocad solidworks design,7.3,2,1,6,Design Engineer
+CSE,verilog vlsi design circuits,7.59,1,1,7,Hardware Engineer
+CSE,aws docker kubernetes cloud,8.41,1,2,6,DevOps Engineer
+CSE,html css javascript react,8.66,1,2,7,Frontend Developer
+CSE,nodejs express mongodb api,9.18,2,0,6,Backend Developer
+CSE,ai deep learning neural networks,7.61,2,2,10,AI Engineer
+CSE,verilog vlsi design circuits,7.89,1,2,10,Hardware Engineer
+CSE,structure planning autocad,6.79,2,1,9,Civil Engineer
+CSE,nodejs express mongodb api,6.83,4,0,7,Backend Developer
+CSE,nodejs express mongodb api,7.38,2,0,9,Backend Developer
+CSE,ai deep learning neural networks,8.58,5,1,6,AI Engineer
+CSE,infrastructure design planning,7.42,3,1,7,Site Engineer
+CSE,react node mongodb fullstack,7.26,3,1,6,Full Stack Developer
+CSE,construction surveying site work,8.99,4,1,7,Site Engineer
+CSE,robotics automation design,7.94,4,1,9,Design Engineer
+CSE,django python sql backend,9.06,3,1,10,Backend Developer
+CSE,react node mongodb fullstack,8.64,1,1,10,Full Stack Developer
+CSE,python flask apis backend,8.19,4,0,8,Backend Developer
+CSE,construction surveying site work,8.92,5,2,6,Site Engineer
+CSE,cyber security linux networking,8.04,2,2,9,Security Analyst
+CSE,verilog vlsi design circuits,8.99,1,1,10,Hardware Engineer
+CSE,verilog vlsi design circuits,6.84,2,2,9,Hardware Engineer
+CSE,signal processing electronics,8.23,1,2,10,Embedded Engineer
+CSE,infrastructure design planning,8.8,2,2,9,Site Engineer
+CSE,iot sensors arduino embedded,8.39,1,1,10,IoT Engineer
+CSE,geotechnical civil engineering,6.53,5,1,6,Civil Engineer
+CSE,signal processing electronics,9.31,5,0,6,Embedded Engineer
+CSE,nodejs express mongodb api,8.48,1,1,10,Backend Developer
+CSE,java spring boot microservices,7.17,2,1,6,Software Engineer
+CSE,robotics automation design,7.35,3,2,6,Design Engineer
+CSE,cyber security linux networking,9.06,3,2,10,Security Analyst
+CSE,geotechnical civil engineering,8.16,2,2,7,Civil Engineer
+CSE,iot sensors arduino embedded,8.3,1,1,10,IoT Engineer
+CSE,verilog vlsi design circuits,6.61,2,1,6,Hardware Engineer
+CSE,java spring boot microservices,8.04,1,1,7,Software Engineer
+CSE,java spring boot microservices,7.18,2,0,6,Software Engineer
+CSE,robotics automation design,7.0,1,0,6,Design Engineer
+CSE,html css javascript react,7.4,2,2,10,Frontend Developer
+CSE,embedded c microcontrollers,6.54,3,0,7,Embedded Engineer
+CSE,html css javascript react,8.16,1,1,9,Frontend Developer
+CSE,structure planning autocad,8.28,5,2,6,Civil Engineer
+CSE,nodejs express mongodb api,8.28,2,2,6,Backend Developer
+CSE,html css javascript react,6.83,3,0,10,Frontend Developer
+CSE,python machine learning ai data analysis,8.2,3,2,10,Data Scientist
+CSE,python machine learning ai data analysis,8.6,2,0,9,Data Scientist
+CSE,django python sql backend,6.64,4,0,9,Backend Developer
+CSE,python machine learning ai data analysis,6.63,3,2,6,Data Scientist
+CSE,mechanical cad cam,8.21,2,1,6,Mechanical Engineer
+CSE,html css javascript react,9.18,2,2,6,Frontend Developer
+CSE,geotechnical civil engineering,6.58,2,1,10,Civil Engineer
+CSE,python machine learning ai data analysis,8.35,5,2,9,Data Scientist
+CSE,embedded c microcontrollers,6.64,3,2,8,Embedded Engineer
+CSE,ai deep learning neural networks,8.45,1,1,10,AI Engineer
+CSE,signal processing electronics,7.86,3,1,8,Embedded Engineer
+CSE,mechanical cad cam,7.24,5,0,8,Mechanical Engineer
+CSE,react node mongodb fullstack,8.67,5,1,6,Full Stack Developer
+CSE,cyber security linux networking,8.77,4,0,10,Security Analyst
+CSE,infrastructure design planning,6.58,5,2,8,Site Engineer
+CSE,autocad solidworks design,7.11,3,0,9,Design Engineer
+CSE,embedded c microcontrollers,6.61,5,2,8,Embedded Engineer
+CSE,python flask apis backend,7.77,5,0,9,Backend Developer
+CSE,ai deep learning neural networks,8.05,1,0,10,AI Engineer
+CSE,ai deep learning neural networks,7.26,5,0,8,AI Engineer
+CSE,python flask apis backend,8.36,2,1,6,Backend Developer
+CSE,autocad solidworks design,6.56,3,1,8,Design Engineer
+CSE,signal processing electronics,6.7,5,0,7,Embedded Engineer
+CSE,cyber security linux networking,9.01,3,2,9,Security Analyst
+CSE,python flask apis backend,6.91,2,1,7,Backend Developer
+CSE,flutter mobile apps firebase,9.07,1,2,9,Mobile App Developer
+CSE,geotechnical civil engineering,8.04,3,1,6,Civil Engineer
+CSE,python machine learning ai data analysis,8.28,4,1,6,Data Scientist
+CSE,thermal systems manufacturing,7.76,4,1,6,Mechanical Engineer
+CSE,structure planning autocad,8.89,1,2,7,Civil Engineer
+CSE,java spring boot microservices,7.5,2,0,10,Software Engineer
+CSE,structure planning autocad,8.78,4,1,10,Civil Engineer
+CSE,python flask apis backend,7.64,2,2,9,Backend Developer
+CSE,django python sql backend,8.92,1,0,6,Backend Developer
+CSE,verilog vlsi design circuits,6.58,2,0,10,Hardware Engineer
+CSE,react node mongodb fullstack,7.99,1,0,6,Full Stack Developer
+CSE,embedded c microcontrollers,8.6,5,2,10,Embedded Engineer
+CSE,nodejs express mongodb api,8.53,5,1,10,Backend Developer
+CSE,infrastructure design planning,8.28,3,2,7,Site Engineer
+CSE,python flask apis backend,9.3,1,2,8,Backend Developer
+CSE,embedded c microcontrollers,8.24,5,2,10,Embedded Engineer
+CSE,thermal systems manufacturing,7.6,3,2,8,Mechanical Engineer
+CSE,robotics automation design,7.17,3,1,7,Design Engineer
+CSE,geotechnical civil engineering,6.51,5,1,10,Civil Engineer
+CSE,aws docker kubernetes cloud,8.55,4,1,8,DevOps Engineer
+CSE,autocad solidworks design,7.12,5,1,6,Design Engineer
+CSE,iot sensors arduino embedded,7.45,4,0,9,IoT Engineer
+CSE,cyber security linux networking,9.17,5,1,6,Security Analyst
+CSE,python machine learning ai data analysis,9.37,3,0,7,Data Scientist
+CSE,cyber security linux networking,8.37,2,0,10,Security Analyst
+CSE,embedded c microcontrollers,7.39,2,1,7,Embedded Engineer
+CSE,infrastructure design planning,7.08,2,2,6,Site Engineer
+CSE,cyber security linux networking,8.98,1,1,10,Security Analyst
+CSE,embedded c microcontrollers,8.02,5,0,8,Embedded Engineer
+CSE,verilog vlsi design circuits,8.67,5,2,9,Hardware Engineer
+CSE,construction surveying site work,7.72,4,2,8,Site Engineer
+CSE,cyber security linux networking,8.01,5,1,9,Security Analyst
+CSE,python flask apis backend,7.49,4,2,9,Backend Developer
+CSE,geotechnical civil engineering,8.13,2,2,8,Civil Engineer
+CSE,infrastructure design planning,7.58,3,2,8,Site Engineer
+CSE,verilog vlsi design circuits,7.25,2,1,10,Hardware Engineer
+CSE,java spring boot microservices,9.13,2,2,10,Software Engineer
+CSE,python flask apis backend,8.97,1,0,7,Backend Developer
+CSE,python machine learning ai data analysis,7.18,5,0,10,Data Scientist
+CSE,structure planning autocad,8.63,4,2,7,Civil Engineer
+CSE,thermal systems manufacturing,8.64,2,2,9,Mechanical Engineer
+CSE,ai deep learning neural networks,8.39,3,2,10,AI Engineer
+CSE,thermal systems manufacturing,8.49,5,2,6,Mechanical Engineer
+CSE,java spring boot microservices,9.36,2,2,8,Software Engineer
+CSE,flutter mobile apps firebase,6.77,3,2,9,Mobile App Developer
+CSE,thermal systems manufacturing,7.04,2,1,8,Mechanical Engineer
+CSE,autocad solidworks design,7.52,5,1,6,Design Engineer
+CSE,construction surveying site work,6.94,3,0,8,Site Engineer
+CSE,django python sql backend,8.39,2,2,9,Backend Developer
+CSE,aws docker kubernetes cloud,8.35,1,1,8,DevOps Engineer
+CSE,signal processing electronics,8.36,5,1,7,Embedded Engineer
+CSE,flutter mobile apps firebase,7.26,4,1,8,Mobile App Developer
+CSE,robotics automation design,8.58,4,1,8,Design Engineer
+CSE,robotics automation design,8.98,1,1,10,Design Engineer
+CSE,iot sensors arduino embedded,7.21,3,0,8,IoT Engineer
+CSE,react node mongodb fullstack,8.53,4,0,8,Full Stack Developer
+CSE,nodejs express mongodb api,6.62,5,1,7,Backend Developer
+CSE,thermal systems manufacturing,7.33,5,2,9,Mechanical Engineer
+CSE,thermal systems manufacturing,8.35,2,0,6,Mechanical Engineer
+CSE,mechanical cad cam,8.68,1,0,10,Mechanical Engineer
+CSE,html css javascript react,8.86,5,1,9,Frontend Developer
+CSE,nodejs express mongodb api,8.91,1,0,9,Backend Developer
+CSE,java spring boot microservices,7.13,3,1,6,Software Engineer
+CSE,html css javascript react,8.59,3,1,7,Frontend Developer
+CSE,embedded c microcontrollers,8.77,1,0,7,Embedded Engineer
+CSE,infrastructure design planning,8.76,4,1,6,Site Engineer
+CSE,construction surveying site work,9.45,4,1,7,Site Engineer
+CSE,python machine learning ai data analysis,7.1,2,1,6,Data Scientist
+CSE,iot sensors arduino embedded,9.22,2,0,8,IoT Engineer
+CSE,construction surveying site work,7.41,3,1,6,Site Engineer
+CSE,infrastructure design planning,7.65,3,0,9,Site Engineer
+CSE,autocad solidworks design,6.87,5,1,8,Design Engineer
+CSE,verilog vlsi design circuits,7.53,2,2,9,Hardware Engineer
+CSE,verilog vlsi design circuits,7.11,1,0,8,Hardware Engineer
+CSE,flutter mobile apps firebase,7.16,4,1,8,Mobile App Developer
+CSE,geotechnical civil engineering,8.26,2,1,6,Civil Engineer
+CSE,ai deep learning neural networks,7.21,1,0,10,AI Engineer
+CSE,nodejs express mongodb api,7.48,3,0,8,Backend Developer
+CSE,html css javascript react,7.63,2,0,8,Frontend Developer
+CSE,robotics automation design,6.69,4,1,8,Design Engineer
+CSE,iot sensors arduino embedded,6.95,1,1,7,IoT Engineer
+CSE,autocad solidworks design,6.61,2,0,9,Design Engineer
+CSE,flutter mobile apps firebase,7.29,5,0,10,Mobile App Developer
+CSE,ai deep learning neural networks,8.9,2,1,8,AI Engineer
+CSE,react node mongodb fullstack,9.24,2,2,9,Full Stack Developer
+CSE,python machine learning ai data analysis,6.9,1,0,9,Data Scientist
+CSE,flutter mobile apps firebase,6.86,1,1,6,Mobile App Developer
+CSE,signal processing electronics,7.55,2,2,8,Embedded Engineer
+CSE,robotics automation design,8.11,2,2,8,Design Engineer
+CSE,geotechnical civil engineering,8.31,5,2,10,Civil Engineer
+CSE,django python sql backend,7.65,3,0,8,Backend Developer
+CSE,robotics automation design,8.33,1,1,8,Design Engineer
+CSE,django python sql backend,6.75,2,1,6,Backend Developer
+CSE,mechanical cad cam,9.23,3,1,10,Mechanical Engineer
+CSE,geotechnical civil engineering,6.84,3,1,9,Civil Engineer
+CSE,cyber security linux networking,8.08,2,1,8,Security Analyst
+CSE,ai deep learning neural networks,6.67,5,1,6,AI Engineer
+CSE,thermal systems manufacturing,6.65,1,2,7,Mechanical Engineer
+CSE,flutter mobile apps firebase,8.85,5,0,8,Mobile App Developer
+CSE,construction surveying site work,8.39,4,0,6,Site Engineer
+CSE,html css javascript react,6.8,4,2,9,Frontend Developer
+CSE,aws docker kubernetes cloud,7.62,5,1,10,DevOps Engineer
+CSE,python machine learning ai data analysis,6.5,4,0,6,Data Scientist
+CSE,react node mongodb fullstack,8.26,4,1,10,Full Stack Developer
+CSE,infrastructure design planning,6.65,4,1,6,Site Engineer
+CSE,ai deep learning neural networks,7.14,4,2,6,AI Engineer
+CSE,thermal systems manufacturing,6.93,3,0,8,Mechanical Engineer
+CSE,verilog vlsi design circuits,8.08,4,2,8,Hardware Engineer
+CSE,django python sql backend,6.77,5,2,6,Backend Developer
+CSE,html css javascript react,7.77,1,1,10,Frontend Developer
+CSE,mechanical cad cam,9.03,2,0,6,Mechanical Engineer
+CSE,autocad solidworks design,7.08,1,1,6,Design Engineer
+CSE,signal processing electronics,7.81,2,2,10,Embedded Engineer
+CSE,python machine learning ai data analysis,6.98,1,0,8,Data Scientist
+CSE,ai deep learning neural networks,8.13,4,2,10,AI Engineer
+CSE,embedded c microcontrollers,8.48,3,1,7,Embedded Engineer
+CSE,embedded c microcontrollers,8.8,5,0,10,Embedded Engineer
+CSE,nodejs express mongodb api,7.45,5,2,7,Backend Developer
+CSE,react node mongodb fullstack,8.31,2,0,9,Full Stack Developer
+CSE,django python sql backend,8.62,4,1,7,Backend Developer
+CSE,html css javascript react,7.41,5,0,10,Frontend Developer
+CSE,structure planning autocad,7.84,2,0,8,Civil Engineer
+CSE,infrastructure design planning,7.37,3,0,8,Site Engineer
+CSE,structure planning autocad,8.85,2,2,8,Civil Engineer
+CSE,iot sensors arduino embedded,6.94,2,1,6,IoT Engineer
+CSE,python flask apis backend,7.4,4,2,10,Backend Developer
+CSE,python flask apis backend,7.45,5,2,10,Backend Developer
+CSE,flutter mobile apps firebase,6.54,4,1,6,Mobile App Developer
+CSE,structure planning autocad,9.0,5,1,7,Civil Engineer
+CSE,geotechnical civil engineering,9.08,3,2,10,Civil Engineer
+CSE,nodejs express mongodb api,9.15,4,2,7,Backend Developer
+CSE,autocad solidworks design,8.82,2,1,10,Design Engineer
+CSE,robotics automation design,8.64,1,0,7,Design Engineer
+CSE,html css javascript react,8.46,1,1,6,Frontend Developer
+CSE,java spring boot microservices,9.27,4,2,8,Software Engineer
+CSE,geotechnical civil engineering,8.27,2,1,8,Civil Engineer
+CSE,flutter mobile apps firebase,8.06,5,1,6,Mobile App Developer
+CSE,react node mongodb fullstack,8.54,5,2,6,Full Stack Developer
+CSE,flutter mobile apps firebase,8.52,4,0,6,Mobile App Developer
+CSE,cyber security linux networking,6.98,1,2,7,Security Analyst
+CSE,cyber security linux networking,7.83,1,2,9,Security Analyst
+CSE,django python sql backend,7.04,1,0,9,Backend Developer
+CSE,geotechnical civil engineering,7.88,5,2,9,Civil Engineer
+CSE,html css javascript react,6.73,2,1,6,Frontend Developer
+CSE,embedded c microcontrollers,8.7,1,1,6,Embedded Engineer
+CSE,signal processing electronics,7.39,2,1,8,Embedded Engineer
+CSE,construction surveying site work,8.21,2,2,8,Site Engineer
+CSE,nodejs express mongodb api,7.24,4,0,6,Backend Developer
+CSE,flutter mobile apps firebase,9.34,2,0,9,Mobile App Developer
+CSE,python flask apis backend,8.77,1,0,6,Backend Developer
+CSE,embedded c microcontrollers,7.31,3,2,9,Embedded Engineer
+CSE,python machine learning ai data analysis,9.07,4,0,9,Data Scientist
+CSE,autocad solidworks design,8.89,2,0,8,Design Engineer
+CSE,embedded c microcontrollers,9.46,2,1,9,Embedded Engineer
+CSE,ai deep learning neural networks,8.97,3,2,8,AI Engineer
+CSE,react node mongodb fullstack,7.37,2,2,10,Full Stack Developer
+CSE,signal processing electronics,7.35,5,0,7,Embedded Engineer
+CSE,nodejs express mongodb api,8.92,2,0,9,Backend Developer
+CSE,java spring boot microservices,7.07,4,2,8,Software Engineer
+CSE,java spring boot microservices,7.67,4,1,8,Software Engineer
+CSE,embedded c microcontrollers,7.89,4,1,9,Embedded Engineer
+CSE,cyber security linux networking,6.72,2,0,10,Security Analyst
+CSE,thermal systems manufacturing,8.58,2,0,8,Mechanical Engineer
+CSE,django python sql backend,6.67,3,0,6,Backend Developer
+CSE,iot sensors arduino embedded,9.17,3,1,8,IoT Engineer
+CSE,python machine learning ai data analysis,8.66,5,2,9,Data Scientist
+CSE,robotics automation design,9.46,4,0,7,Design Engineer
+CSE,ai deep learning neural networks,6.88,4,2,8,AI Engineer
+CSE,aws docker kubernetes cloud,9.33,3,0,10,DevOps Engineer
+CSE,iot sensors arduino embedded,8.15,2,2,8,IoT Engineer
+CSE,nodejs express mongodb api,8.69,1,1,10,Backend Developer
+CSE,cyber security linux networking,7.95,4,2,9,Security Analyst
+CSE,geotechnical civil engineering,8.12,5,2,6,Civil Engineer
+CSE,construction surveying site work,6.62,4,2,8,Site Engineer
+CSE,thermal systems manufacturing,7.46,1,2,6,Mechanical Engineer
+CSE,flutter mobile apps firebase,9.27,3,0,10,Mobile App Developer
+CSE,python flask apis backend,7.4,3,2,7,Backend Developer
+CSE,flutter mobile apps firebase,6.84,3,1,9,Mobile App Developer
+CSE,autocad solidworks design,7.23,5,0,9,Design Engineer
+CSE,ai deep learning neural networks,8.25,3,0,6,AI Engineer
+CSE,iot sensors arduino embedded,8.94,4,0,7,IoT Engineer
+CSE,autocad solidworks design,8.59,2,2,9,Design Engineer
+CSE,iot sensors arduino embedded,9.41,2,1,6,IoT Engineer
+CSE,thermal systems manufacturing,6.84,2,2,10,Mechanical Engineer
+CSE,iot sensors arduino embedded,8.04,3,0,8,IoT Engineer
+CSE,ai deep learning neural networks,8.33,1,1,6,AI Engineer
+CSE,react node mongodb fullstack,8.91,3,0,8,Full Stack Developer
+CSE,python flask apis backend,7.8,2,1,6,Backend Developer
+CSE,react node mongodb fullstack,8.59,2,1,10,Full Stack Developer
+CSE,geotechnical civil engineering,6.55,3,0,10,Civil Engineer
+CSE,embedded c microcontrollers,7.06,4,2,9,Embedded Engineer
+CSE,ai deep learning neural networks,7.95,3,0,7,AI Engineer
+CSE,construction surveying site work,9.22,4,2,8,Site Engineer
+CSE,python machine learning ai data analysis,7.62,5,1,9,Data Scientist
+CSE,nodejs express mongodb api,7.36,2,2,9,Backend Developer
+CSE,structure planning autocad,6.56,5,0,8,Civil Engineer
+CSE,thermal systems manufacturing,7.85,2,1,8,Mechanical Engineer
+CSE,python flask apis backend,8.68,5,2,7,Backend Developer
+CSE,django python sql backend,8.51,5,1,6,Backend Developer
+CSE,construction surveying site work,7.82,4,1,8,Site Engineer
+CSE,java spring boot microservices,8.54,5,2,9,Software Engineer
+CSE,embedded c microcontrollers,9.09,4,2,8,Embedded Engineer
+CSE,geotechnical civil engineering,6.65,1,0,8,Civil Engineer
+CSE,mechanical cad cam,9.29,3,0,7,Mechanical Engineer
+CSE,autocad solidworks design,7.99,1,2,10,Design Engineer
+CSE,embedded c microcontrollers,8.15,5,0,7,Embedded Engineer
+CSE,iot sensors arduino embedded,9.17,4,0,10,IoT Engineer
+CSE,nodejs express mongodb api,7.64,1,0,8,Backend Developer
+CSE,construction surveying site work,8.09,1,2,9,Site Engineer
+CSE,python machine learning ai data analysis,7.82,2,1,6,Data Scientist
+CSE,html css javascript react,7.92,3,2,8,Frontend Developer
+CSE,aws docker kubernetes cloud,6.61,2,2,10,DevOps Engineer
+CSE,django python sql backend,8.29,5,2,6,Backend Developer
+CSE,robotics automation design,9.0,4,0,7,Design Engineer
+CSE,robotics automation design,7.47,5,1,8,Design Engineer
+CSE,django python sql backend,7.38,5,0,6,Backend Developer
+CSE,robotics automation design,9.05,2,1,8,Design Engineer
+CSE,signal processing electronics,7.83,3,2,7,Embedded Engineer
+CSE,ai deep learning neural networks,9.05,2,1,7,AI Engineer
+CSE,infrastructure design planning,8.84,4,1,7,Site Engineer
+CSE,java spring boot microservices,7.68,5,2,8,Software Engineer
+CSE,react node mongodb fullstack,7.09,1,2,6,Full Stack Developer
+CSE,html css javascript react,8.03,5,2,9,Frontend Developer
+CSE,cyber security linux networking,6.82,5,1,6,Security Analyst
+CSE,react node mongodb fullstack,8.4,4,2,7,Full Stack Developer
+CSE,signal processing electronics,8.53,1,1,6,Embedded Engineer
+CSE,java spring boot microservices,9.16,2,0,10,Software Engineer
+CSE,robotics automation design,7.75,5,0,8,Design Engineer
+CSE,autocad solidworks design,7.44,3,0,10,Design Engineer
+CSE,verilog vlsi design circuits,8.45,3,0,7,Hardware Engineer
+CSE,embedded c microcontrollers,9.37,4,1,8,Embedded Engineer
+CSE,java spring boot microservices,9.29,4,0,9,Software Engineer
+CSE,construction surveying site work,9.15,5,1,8,Site Engineer
+CSE,python machine learning ai data analysis,9.2,5,1,8,Data Scientist
+CSE,geotechnical civil engineering,8.27,3,2,6,Civil Engineer
+CSE,react node mongodb fullstack,9.03,4,2,10,Full Stack Developer
+CSE,infrastructure design planning,6.9,3,0,6,Site Engineer
+CSE,python flask apis backend,8.53,4,1,6,Backend Developer
+CSE,django python sql backend,8.28,5,1,6,Backend Developer
+CSE,mechanical cad cam,6.9,2,1,6,Mechanical Engineer
+CSE,python machine learning ai data analysis,8.42,5,1,8,Data Scientist
+CSE,iot sensors arduino embedded,7.91,3,0,8,IoT Engineer
+CSE,aws docker kubernetes cloud,6.51,4,1,6,DevOps Engineer
+CSE,autocad solidworks design,6.73,4,1,6,Design Engineer
+CSE,python machine learning ai data analysis,7.66,4,0,9,Data Scientist
+CSE,autocad solidworks design,8.6,2,2,6,Design Engineer
+CSE,autocad solidworks design,8.75,5,0,6,Design Engineer
+CSE,embedded c microcontrollers,7.72,5,0,7,Embedded Engineer
+CSE,nodejs express mongodb api,7.51,5,2,7,Backend Developer
+CSE,python machine learning ai data analysis,7.14,5,0,9,Data Scientist
+CSE,autocad solidworks design,6.96,2,0,7,Design Engineer
+CSE,react node mongodb fullstack,9.4,5,1,9,Full Stack Developer
+CSE,nodejs express mongodb api,7.41,5,2,9,Backend Developer
+CSE,mechanical cad cam,6.96,1,1,6,Mechanical Engineer
+CSE,embedded c microcontrollers,9.04,4,0,10,Embedded Engineer
+CSE,nodejs express mongodb api,6.86,3,0,10,Backend Developer
+CSE,django python sql backend,8.59,2,0,10,Backend Developer
+CSE,java spring boot microservices,8.54,2,2,7,Software Engineer
+CSE,embedded c microcontrollers,8.36,1,0,7,Embedded Engineer
+CSE,java spring boot microservices,8.62,4,2,6,Software Engineer
+CSE,geotechnical civil engineering,6.65,5,2,7,Civil Engineer
+CSE,verilog vlsi design circuits,8.33,5,1,6,Hardware Engineer
+CSE,infrastructure design planning,7.84,2,0,7,Site Engineer
+CSE,construction surveying site work,8.92,2,2,8,Site Engineer
+CSE,ai deep learning neural networks,7.31,4,0,8,AI Engineer
+CSE,flutter mobile apps firebase,7.89,5,1,9,Mobile App Developer
+CSE,python flask apis backend,8.1,5,0,9,Backend Developer
+CSE,django python sql backend,8.83,2,2,7,Backend Developer
+CSE,java spring boot microservices,8.65,5,0,8,Software Engineer
+CSE,signal processing electronics,9.36,1,1,6,Embedded Engineer
+CSE,python machine learning ai data analysis,7.36,2,0,10,Data Scientist
+CSE,embedded c microcontrollers,8.41,5,2,10,Embedded Engineer
+CSE,construction surveying site work,8.75,4,1,6,Site Engineer
+CSE,nodejs express mongodb api,9.08,1,1,10,Backend Developer
+CSE,infrastructure design planning,7.36,5,0,7,Site Engineer
+CSE,aws docker kubernetes cloud,8.87,1,2,10,DevOps Engineer
+CSE,django python sql backend,7.16,5,2,9,Backend Developer
+CSE,html css javascript react,8.1,2,0,7,Frontend Developer
+CSE,flutter mobile apps firebase,7.12,5,0,10,Mobile App Developer
+CSE,ai deep learning neural networks,8.26,3,1,10,AI Engineer
+CSE,robotics automation design,9.14,4,2,6,Design Engineer
+CSE,cyber security linux networking,6.67,4,0,8,Security Analyst
+CSE,infrastructure design planning,6.62,2,0,6,Site Engineer
+CSE,geotechnical civil engineering,9.13,4,2,10,Civil Engineer
+CSE,python machine learning ai data analysis,8.95,2,0,9,Data Scientist
+CSE,verilog vlsi design circuits,8.59,5,2,8,Hardware Engineer
+CSE,flutter mobile apps firebase,7.9,4,0,9,Mobile App Developer
+CSE,aws docker kubernetes cloud,8.11,3,0,6,DevOps Engineer
+CSE,django python sql backend,7.32,1,2,9,Backend Developer
+CSE,react node mongodb fullstack,6.93,2,2,7,Full Stack Developer
+CSE,verilog vlsi design circuits,9.19,1,1,6,Hardware Engineer
+CSE,flutter mobile apps firebase,8.28,5,2,9,Mobile App Developer
+CSE,python machine learning ai data analysis,7.3,1,0,7,Data Scientist
+CSE,verilog vlsi design circuits,7.2,4,1,10,Hardware Engineer
+CSE,infrastructure design planning,7.89,2,0,9,Site Engineer
+CSE,geotechnical civil engineering,7.98,2,0,7,Civil Engineer
+CSE,thermal systems manufacturing,8.76,4,0,6,Mechanical Engineer
+CSE,django python sql backend,7.39,4,1,6,Backend Developer
+CSE,python machine learning ai data analysis,6.85,1,1,9,Data Scientist
+CSE,construction surveying site work,6.91,3,0,10,Site Engineer
+CSE,java spring boot microservices,6.7,5,2,10,Software Engineer
+CSE,mechanical cad cam,8.69,3,2,9,Mechanical Engineer
+CSE,signal processing electronics,6.79,1,0,10,Embedded Engineer
+CSE,autocad solidworks design,8.6,1,0,10,Design Engineer
+CSE,aws docker kubernetes cloud,7.1,1,0,9,DevOps Engineer
+CSE,iot sensors arduino embedded,9.47,1,0,8,IoT Engineer
+CSE,mechanical cad cam,7.52,5,1,10,Mechanical Engineer
+CSE,nodejs express mongodb api,8.1,5,1,8,Backend Developer
+CSE,iot sensors arduino embedded,9.06,1,1,9,IoT Engineer
+CSE,python flask apis backend,8.72,4,2,10,Backend Developer
+CSE,geotechnical civil engineering,9.38,3,2,8,Civil Engineer
+CSE,geotechnical civil engineering,8.79,2,1,10,Civil Engineer
+CSE,html css javascript react,7.55,4,0,8,Frontend Developer
+CSE,html css javascript react,8.26,2,1,10,Frontend Developer
+CSE,python flask apis backend,8.74,2,1,6,Backend Developer
+CSE,verilog vlsi design circuits,7.59,5,1,10,Hardware Engineer
+CSE,python machine learning ai data analysis,8.0,2,1,10,Data Scientist
+CSE,structure planning autocad,9.45,4,1,8,Civil Engineer
+CSE,geotechnical civil engineering,8.01,5,1,9,Civil Engineer
+CSE,embedded c microcontrollers,9.13,1,0,6,Embedded Engineer
+CSE,python flask apis backend,8.11,1,0,7,Backend Developer
+CSE,nodejs express mongodb api,8.78,1,1,8,Backend Developer
+CSE,construction surveying site work,7.47,5,0,6,Site Engineer
+CSE,autocad solidworks design,9.14,4,1,9,Design Engineer
+CSE,embedded c microcontrollers,6.86,5,2,8,Embedded Engineer
+CSE,django python sql backend,6.83,3,0,9,Backend Developer
+CSE,django python sql backend,6.95,5,2,7,Backend Developer
+CSE,java spring boot microservices,7.93,5,2,10,Software Engineer
+CSE,python flask apis backend,9.33,1,0,6,Backend Developer
+CSE,mechanical cad cam,7.47,4,0,6,Mechanical Engineer
+CSE,nodejs express mongodb api,7.66,2,0,7,Backend Developer
+CSE,python flask apis backend,8.07,2,2,10,Backend Developer
+CSE,robotics automation design,8.46,3,1,7,Design Engineer
+CSE,flutter mobile apps firebase,7.57,2,1,10,Mobile App Developer
+CSE,mechanical cad cam,8.07,5,2,10,Mechanical Engineer
+CSE,python flask apis backend,9.03,2,1,9,Backend Developer
+CSE,html css javascript react,6.56,1,2,8,Frontend Developer
+CSE,autocad solidworks design,8.62,5,0,10,Design Engineer
+CSE,nodejs express mongodb api,7.94,3,1,8,Backend Developer
+CSE,html css javascript react,7.2,1,0,10,Frontend Developer
+CSE,verilog vlsi design circuits,8.42,2,1,6,Hardware Engineer
+CSE,verilog vlsi design circuits,8.6,2,0,9,Hardware Engineer
+CSE,infrastructure design planning,6.69,1,0,6,Site Engineer
+CSE,python machine learning ai data analysis,8.83,1,1,7,Data Scientist
+CSE,autocad solidworks design,9.34,1,2,10,Design Engineer
+CSE,signal processing electronics,8.51,4,2,10,Embedded Engineer
+CSE,django python sql backend,7.12,3,2,9,Backend Developer
+CSE,nodejs express mongodb api,7.33,1,1,8,Backend Developer
+CSE,aws docker kubernetes cloud,9.14,3,2,6,DevOps Engineer
+CSE,structure planning autocad,9.09,5,1,7,Civil Engineer
+CSE,geotechnical civil engineering,8.7,5,1,7,Civil Engineer
+CSE,robotics automation design,6.9,1,0,8,Design Engineer
+CSE,flutter mobile apps firebase,8.47,5,1,8,Mobile App Developer
+CSE,python machine learning ai data analysis,8.93,3,1,9,Data Scientist
+CSE,iot sensors arduino embedded,6.65,1,1,8,IoT Engineer
+CSE,iot sensors arduino embedded,8.21,5,2,8,IoT Engineer
+CSE,mechanical cad cam,7.63,5,0,7,Mechanical Engineer
+CSE,python machine learning ai data analysis,8.66,2,0,6,Data Scientist
+CSE,python machine learning ai data analysis,6.57,1,1,7,Data Scientist
+CSE,geotechnical civil engineering,9.19,3,2,10,Civil Engineer
+CSE,react node mongodb fullstack,7.67,5,0,10,Full Stack Developer
+CSE,ai deep learning neural networks,7.9,2,0,7,AI Engineer
+CSE,structure planning autocad,7.74,1,2,9,Civil Engineer
+CSE,autocad solidworks design,7.65,2,0,6,Design Engineer
+CSE,mechanical cad cam,7.6,3,0,7,Mechanical Engineer
+CSE,embedded c microcontrollers,6.53,4,1,9,Embedded Engineer
+CSE,react node mongodb fullstack,9.02,1,2,7,Full Stack Developer
+CSE,ai deep learning neural networks,9.31,5,0,7,AI Engineer
+CSE,flutter mobile apps firebase,7.97,3,0,6,Mobile App Developer
+CSE,mechanical cad cam,7.17,2,0,10,Mechanical Engineer
+CSE,python flask apis backend,8.19,1,1,8,Backend Developer
+CSE,verilog vlsi design circuits,7.9,4,1,10,Hardware Engineer
+CSE,ai deep learning neural networks,8.66,2,1,10,AI Engineer
+CSE,iot sensors arduino embedded,6.93,4,0,6,IoT Engineer
+CSE,mechanical cad cam,6.64,1,1,7,Mechanical Engineer
+CSE,java spring boot microservices,8.28,2,2,6,Software Engineer
+CSE,structure planning autocad,9.35,2,2,8,Civil Engineer
+CSE,java spring boot microservices,8.15,4,0,9,Software Engineer
+CSE,react node mongodb fullstack,7.59,2,0,8,Full Stack Developer
+CSE,java spring boot microservices,7.99,1,0,7,Software Engineer
+CSE,react node mongodb fullstack,7.93,2,0,7,Full Stack Developer
+CSE,aws docker kubernetes cloud,9.22,3,1,10,DevOps Engineer
+CSE,django python sql backend,6.91,1,0,6,Backend Developer
+CSE,ai deep learning neural networks,8.6,5,0,7,AI Engineer
+CSE,java spring boot microservices,8.85,5,0,9,Software Engineer
+CSE,signal processing electronics,8.28,1,1,7,Embedded Engineer
+CSE,structure planning autocad,6.66,5,2,7,Civil Engineer
+CSE,java spring boot microservices,7.75,3,2,10,Software Engineer
+CSE,robotics automation design,6.66,4,1,6,Design Engineer
+CSE,thermal systems manufacturing,8.91,5,0,10,Mechanical Engineer
+CSE,java spring boot microservices,8.33,4,2,9,Software Engineer
+CSE,ai deep learning neural networks,7.24,4,0,8,AI Engineer
+CSE,java spring boot microservices,7.13,4,2,7,Software Engineer
+CSE,cyber security linux networking,6.54,3,2,9,Security Analyst
+CSE,signal processing electronics,8.22,5,2,9,Embedded Engineer
+CSE,embedded c microcontrollers,7.65,4,2,8,Embedded Engineer
+CSE,aws docker kubernetes cloud,6.57,4,2,9,DevOps Engineer
+CSE,html css javascript react,7.61,5,0,9,Frontend Developer
+CSE,django python sql backend,9.04,2,0,6,Backend Developer
+CSE,construction surveying site work,8.5,4,0,7,Site Engineer
+CSE,structure planning autocad,8.12,3,2,9,Civil Engineer
+CSE,robotics automation design,6.6,3,2,7,Design Engineer
+CSE,django python sql backend,7.08,3,1,6,Backend Developer
+CSE,iot sensors arduino embedded,7.85,4,1,10,IoT Engineer
+CSE,structure planning autocad,6.76,4,1,9,Civil Engineer
+CSE,geotechnical civil engineering,8.78,4,2,9,Civil Engineer
+CSE,mechanical cad cam,6.78,3,1,9,Mechanical Engineer
+CSE,geotechnical civil engineering,9.01,4,2,10,Civil Engineer
+CSE,structure planning autocad,8.02,3,2,6,Civil Engineer
+CSE,thermal systems manufacturing,6.86,5,2,6,Mechanical Engineer
+CSE,react node mongodb fullstack,7.12,5,1,6,Full Stack Developer
+CSE,structure planning autocad,7.15,4,1,7,Civil Engineer
+CSE,html css javascript react,8.17,1,0,10,Frontend Developer
+CSE,construction surveying site work,9.49,2,1,9,Site Engineer
+CSE,python flask apis backend,9.5,4,2,8,Backend Developer
+CSE,mechanical cad cam,7.1,4,1,9,Mechanical Engineer
+CSE,cyber security linux networking,7.78,4,2,9,Security Analyst
+CSE,autocad solidworks design,6.66,3,1,8,Design Engineer
+CSE,cyber security linux networking,6.75,5,0,9,Security Analyst
+CSE,python flask apis backend,6.57,1,2,8,Backend Developer
+CSE,signal processing electronics,9.07,4,0,7,Embedded Engineer
+CSE,robotics automation design,9.45,3,2,9,Design Engineer
+CSE,java spring boot microservices,9.13,2,1,8,Software Engineer
+CSE,python machine learning ai data analysis,6.82,2,0,7,Data Scientist
+CSE,nodejs express mongodb api,8.11,1,2,10,Backend Developer
+CSE,html css javascript react,7.61,5,1,6,Frontend Developer
+CSE,aws docker kubernetes cloud,8.18,1,0,8,DevOps Engineer
+CSE,aws docker kubernetes cloud,7.41,4,0,6,DevOps Engineer
+CSE,infrastructure design planning,6.5,1,2,6,Site Engineer
+CSE,iot sensors arduino embedded,7.01,1,0,10,IoT Engineer
+CSE,infrastructure design planning,9.2,2,0,9,Site Engineer
+CSE,autocad solidworks design,9.06,2,1,9,Design Engineer
+CSE,signal processing electronics,6.76,5,0,6,Embedded Engineer
+CSE,react node mongodb fullstack,9.0,5,0,8,Full Stack Developer
+CSE,aws docker kubernetes cloud,7.28,2,2,7,DevOps Engineer
+CSE,aws docker kubernetes cloud,8.95,5,1,9,DevOps Engineer
+CSE,autocad solidworks design,9.13,2,1,6,Design Engineer
+CSE,mechanical cad cam,9.2,2,2,9,Mechanical Engineer
+CSE,geotechnical civil engineering,6.97,2,1,8,Civil Engineer
+CSE,python flask apis backend,6.77,4,1,10,Backend Developer
+CSE,ai deep learning neural networks,8.22,4,2,6,AI Engineer
+CSE,geotechnical civil engineering,7.73,1,0,8,Civil Engineer
+CSE,structure planning autocad,7.89,3,2,8,Civil Engineer
+CSE,flutter mobile apps firebase,6.66,5,2,6,Mobile App Developer
+CSE,cyber security linux networking,6.95,5,1,8,Security Analyst
+CSE,ai deep learning neural networks,9.27,2,1,9,AI Engineer
+CSE,autocad solidworks design,7.24,1,1,6,Design Engineer
+CSE,geotechnical civil engineering,9.36,5,1,6,Civil Engineer
+CSE,mechanical cad cam,8.62,2,2,8,Mechanical Engineer
+CSE,robotics automation design,7.1,1,0,10,Design Engineer
+CSE,flutter mobile apps firebase,7.22,4,2,7,Mobile App Developer
+CSE,autocad solidworks design,6.85,3,0,8,Design Engineer
+CSE,structure planning autocad,8.59,3,0,7,Civil Engineer
+CSE,react node mongodb fullstack,6.6,4,1,10,Full Stack Developer
+CSE,flutter mobile apps firebase,8.42,4,1,8,Mobile App Developer
+CSE,html css javascript react,9.0,3,0,7,Frontend Developer
+CSE,ai deep learning neural networks,7.41,2,0,7,AI Engineer
+CSE,autocad solidworks design,8.48,4,0,8,Design Engineer
+CSE,verilog vlsi design circuits,6.62,5,0,8,Hardware Engineer
+CSE,construction surveying site work,7.58,4,0,10,Site Engineer
+CSE,robotics automation design,8.24,5,2,9,Design Engineer
+CSE,thermal systems manufacturing,7.01,4,2,6,Mechanical Engineer
+CSE,mechanical cad cam,8.78,1,0,9,Mechanical Engineer
+CSE,mechanical cad cam,8.43,1,0,9,Mechanical Engineer
+CSE,cyber security linux networking,9.19,5,2,9,Security Analyst
+CSE,flutter mobile apps firebase,8.96,4,1,10,Mobile App Developer
+CSE,cyber security linux networking,8.2,3,1,7,Security Analyst
+CSE,infrastructure design planning,9.2,5,0,9,Site Engineer
+CSE,python flask apis backend,6.74,1,0,6,Backend Developer
+CSE,robotics automation design,8.88,5,1,8,Design Engineer
+CSE,react node mongodb fullstack,9.31,3,1,8,Full Stack Developer
+CSE,embedded c microcontrollers,9.1,3,1,7,Embedded Engineer
+CSE,signal processing electronics,8.17,2,0,9,Embedded Engineer
+CSE,django python sql backend,7.26,3,1,6,Backend Developer
+CSE,ai deep learning neural networks,9.22,5,1,8,AI Engineer
+CSE,nodejs express mongodb api,8.35,3,1,9,Backend Developer
+CSE,aws docker kubernetes cloud,7.81,2,1,6,DevOps Engineer
+CSE,flutter mobile apps firebase,6.69,5,2,6,Mobile App Developer
+CSE,thermal systems manufacturing,7.36,3,2,8,Mechanical Engineer
+CSE,infrastructure design planning,8.53,3,2,8,Site Engineer
+CSE,autocad solidworks design,7.88,1,0,7,Design Engineer
+CSE,ai deep learning neural networks,6.9,1,2,8,AI Engineer
+CSE,structure planning autocad,7.74,1,1,9,Civil Engineer
+CSE,infrastructure design planning,7.77,3,1,6,Site Engineer
+CSE,geotechnical civil engineering,9.0,5,2,9,Civil Engineer
+CSE,aws docker kubernetes cloud,7.68,2,1,6,DevOps Engineer
+CSE,mechanical cad cam,9.45,2,0,9,Mechanical Engineer
+CSE,cyber security linux networking,6.77,2,1,7,Security Analyst
+CSE,java spring boot microservices,8.84,5,0,6,Software Engineer
+CSE,mechanical cad cam,9.0,3,0,8,Mechanical Engineer
+CSE,autocad solidworks design,6.52,1,0,9,Design Engineer
+CSE,geotechnical civil engineering,6.77,2,2,9,Civil Engineer
+CSE,robotics automation design,7.96,1,1,8,Design Engineer
+CSE,construction surveying site work,7.91,1,0,7,Site Engineer
+CSE,python flask apis backend,9.07,2,2,6,Backend Developer
+CSE,nodejs express mongodb api,6.5,1,2,8,Backend Developer
+CSE,java spring boot microservices,7.21,2,0,6,Software Engineer
+CSE,embedded c microcontrollers,8.37,2,2,10,Embedded Engineer
+CSE,embedded c microcontrollers,7.75,3,2,8,Embedded Engineer
+CSE,aws docker kubernetes cloud,6.64,1,0,7,DevOps Engineer
+CSE,robotics automation design,7.87,2,0,8,Design Engineer
+CSE,embedded c microcontrollers,6.75,5,0,8,Embedded Engineer
+CSE,python flask apis backend,8.25,3,1,6,Backend Developer
+CSE,cyber security linux networking,7.2,4,2,6,Security Analyst
+CSE,geotechnical civil engineering,9.37,3,0,7,Civil Engineer
+CSE,ai deep learning neural networks,8.0,3,1,8,AI Engineer
+CSE,thermal systems manufacturing,7.3,1,1,8,Mechanical Engineer
+CSE,autocad solidworks design,8.45,1,2,9,Design Engineer
+CSE,java spring boot microservices,7.88,4,0,6,Software Engineer
+CSE,signal processing electronics,8.12,3,0,10,Embedded Engineer
+CSE,autocad solidworks design,8.84,1,1,7,Design Engineer
+CSE,cyber security linux networking,6.79,2,2,7,Security Analyst
+CSE,infrastructure design planning,8.35,5,0,8,Site Engineer
+CSE,mechanical cad cam,7.78,3,0,7,Mechanical Engineer
+CSE,construction surveying site work,6.64,3,0,7,Site Engineer
+CSE,ai deep learning neural networks,9.14,4,2,7,AI Engineer
+CSE,geotechnical civil engineering,9.25,5,1,6,Civil Engineer
+CSE,autocad solidworks design,8.97,1,1,10,Design Engineer
+CSE,aws docker kubernetes cloud,7.58,5,1,10,DevOps Engineer
+CSE,structure planning autocad,9.11,5,2,9,Civil Engineer
+CSE,cyber security linux networking,6.72,2,1,7,Security Analyst
+CSE,aws docker kubernetes cloud,7.46,5,2,9,DevOps Engineer
+CSE,java spring boot microservices,9.45,2,1,6,Software Engineer
+CSE,signal processing electronics,9.07,1,2,6,Embedded Engineer
+CSE,django python sql backend,7.28,4,2,9,Backend Developer
+CSE,construction surveying site work,8.93,5,2,6,Site Engineer
+CSE,infrastructure design planning,9.04,4,0,7,Site Engineer
+CSE,embedded c microcontrollers,9.22,3,1,8,Embedded Engineer
+CSE,structure planning autocad,9.37,4,0,6,Civil Engineer
+CSE,thermal systems manufacturing,8.75,4,2,7,Mechanical Engineer
+CSE,signal processing electronics,9.13,3,0,9,Embedded Engineer
+CSE,robotics automation design,6.89,1,1,10,Design Engineer
+CSE,html css javascript react,7.74,2,1,6,Frontend Developer
+CSE,infrastructure design planning,7.98,4,1,6,Site Engineer
+CSE,python flask apis backend,9.01,2,0,6,Backend Developer
+CSE,signal processing electronics,7.31,2,1,10,Embedded Engineer
+CSE,ai deep learning neural networks,6.86,3,2,7,AI Engineer
+CSE,thermal systems manufacturing,6.82,3,0,9,Mechanical Engineer
+CSE,aws docker kubernetes cloud,8.73,1,0,7,DevOps Engineer
+CSE,python machine learning ai data analysis,7.42,3,1,8,Data Scientist
+CSE,ai deep learning neural networks,7.42,1,1,10,AI Engineer
+CSE,infrastructure design planning,8.49,2,1,8,Site Engineer
+CSE,geotechnical civil engineering,8.46,5,2,7,Civil Engineer
+CSE,structure planning autocad,9.03,2,1,6,Civil Engineer
+CSE,construction surveying site work,8.12,1,1,6,Site Engineer
+CSE,robotics automation design,7.81,2,2,10,Design Engineer
+CSE,autocad solidworks design,6.6,2,2,7,Design Engineer
+CSE,verilog vlsi design circuits,6.64,4,0,7,Hardware Engineer
+CSE,flutter mobile apps firebase,8.97,2,0,8,Mobile App Developer
+CSE,react node mongodb fullstack,8.79,3,2,6,Full Stack Developer
+CSE,python machine learning ai data analysis,8.47,3,2,8,Data Scientist
+CSE,python machine learning ai data analysis,6.86,1,0,8,Data Scientist
+CSE,infrastructure design planning,9.14,3,1,8,Site Engineer
+CSE,flutter mobile apps firebase,7.64,5,2,9,Mobile App Developer
+CSE,autocad solidworks design,8.22,2,2,10,Design Engineer
+CSE,autocad solidworks design,7.89,5,1,10,Design Engineer
+CSE,autocad solidworks design,6.51,5,2,10,Design Engineer
+CSE,thermal systems manufacturing,6.53,2,2,8,Mechanical Engineer
+CSE,ai deep learning neural networks,8.64,4,1,9,AI Engineer
+CSE,thermal systems manufacturing,8.09,1,0,9,Mechanical Engineer
+CSE,construction surveying site work,9.34,2,0,8,Site Engineer
+CSE,geotechnical civil engineering,6.83,2,0,7,Civil Engineer
+CSE,nodejs express mongodb api,7.16,3,2,10,Backend Developer
+CSE,aws docker kubernetes cloud,7.89,4,2,6,DevOps Engineer
+CSE,embedded c microcontrollers,9.05,2,0,6,Embedded Engineer
+CSE,thermal systems manufacturing,8.7,3,1,7,Mechanical Engineer
+CSE,python machine learning ai data analysis,7.75,2,1,9,Data Scientist
+CSE,structure planning autocad,7.64,5,0,8,Civil Engineer
+CSE,geotechnical civil engineering,7.38,4,1,7,Civil Engineer
+CSE,iot sensors arduino embedded,8.28,4,2,6,IoT Engineer
+CSE,infrastructure design planning,7.0,2,0,8,Site Engineer
+CSE,ai deep learning neural networks,6.85,5,1,7,AI Engineer
+CSE,robotics automation design,8.16,5,1,6,Design Engineer
+CSE,html css javascript react,8.84,2,0,10,Frontend Developer
+CSE,nodejs express mongodb api,8.22,5,0,8,Backend Developer
+CSE,thermal systems manufacturing,7.26,4,2,9,Mechanical Engineer
+CSE,python flask apis backend,7.52,1,0,10,Backend Developer
+CSE,html css javascript react,9.38,4,1,6,Frontend Developer
+CSE,embedded c microcontrollers,7.94,5,0,6,Embedded Engineer
+CSE,python flask apis backend,7.77,1,1,10,Backend Developer
+CSE,verilog vlsi design circuits,9.37,4,2,8,Hardware Engineer
+CSE,thermal systems manufacturing,7.44,5,2,10,Mechanical Engineer
+CSE,mechanical cad cam,9.11,5,1,10,Mechanical Engineer
+CSE,robotics automation design,7.83,3,0,8,Design Engineer
+CSE,robotics automation design,7.59,2,1,8,Design Engineer
+CSE,python flask apis backend,7.67,1,1,8,Backend Developer
+CSE,html css javascript react,8.34,4,1,8,Frontend Developer
+CSE,structure planning autocad,9.28,1,0,9,Civil Engineer
+CSE,aws docker kubernetes cloud,7.32,2,1,9,DevOps Engineer
+CSE,ai deep learning neural networks,8.16,3,1,9,AI Engineer
+CSE,infrastructure design planning,9.11,1,2,9,Site Engineer
+CSE,mechanical cad cam,8.58,1,1,9,Mechanical Engineer
+CSE,iot sensors arduino embedded,7.79,3,2,9,IoT Engineer
+CSE,thermal systems manufacturing,6.76,1,1,9,Mechanical Engineer
+CSE,nodejs express mongodb api,6.56,5,2,10,Backend Developer
+CSE,python flask apis backend,8.85,2,0,10,Backend Developer
+CSE,ai deep learning neural networks,8.58,2,0,6,AI Engineer
+CSE,infrastructure design planning,7.71,1,1,9,Site Engineer
+CSE,django python sql backend,7.95,1,2,7,Backend Developer
+CSE,mechanical cad cam,6.63,5,0,6,Mechanical Engineer
+CSE,infrastructure design planning,7.86,3,2,7,Site Engineer
+CSE,mechanical cad cam,7.88,5,0,7,Mechanical Engineer
+CSE,thermal systems manufacturing,7.26,5,0,6,Mechanical Engineer
+CSE,java spring boot microservices,8.27,1,2,10,Software Engineer
+CSE,thermal systems manufacturing,7.71,5,2,7,Mechanical Engineer
+CSE,flutter mobile apps firebase,6.57,1,0,9,Mobile App Developer
+CSE,python machine learning ai data analysis,6.85,2,2,9,Data Scientist
+CSE,thermal systems manufacturing,8.93,5,1,6,Mechanical Engineer
+CSE,html css javascript react,6.94,2,0,7,Frontend Developer
+CSE,django python sql backend,7.74,3,1,10,Backend Developer
+CSE,construction surveying site work,8.85,2,0,8,Site Engineer
+CSE,django python sql backend,7.84,5,1,9,Backend Developer
+CSE,cyber security linux networking,7.14,3,0,8,Security Analyst
+CSE,embedded c microcontrollers,7.22,3,0,9,Embedded Engineer
+CSE,robotics automation design,8.66,5,1,6,Design Engineer
+CSE,autocad solidworks design,7.88,5,2,7,Design Engineer
+CSE,robotics automation design,9.18,2,1,8,Design Engineer
+CSE,aws docker kubernetes cloud,7.98,5,2,7,DevOps Engineer
+CSE,cyber security linux networking,8.33,1,2,9,Security Analyst
+CSE,construction surveying site work,7.9,2,2,7,Site Engineer
+CSE,django python sql backend,8.19,1,1,9,Backend Developer
+CSE,robotics automation design,8.06,3,1,8,Design Engineer
+CSE,geotechnical civil engineering,7.2,4,2,7,Civil Engineer
+CSE,django python sql backend,9.35,3,1,7,Backend Developer
+CSE,geotechnical civil engineering,8.54,2,2,7,Civil Engineer
+CSE,nodejs express mongodb api,8.96,1,2,6,Backend Developer
+CSE,verilog vlsi design circuits,7.68,4,2,6,Hardware Engineer
+CSE,java spring boot microservices,8.12,1,0,8,Software Engineer
+CSE,construction surveying site work,8.51,5,1,10,Site Engineer
+CSE,robotics automation design,7.16,2,0,10,Design Engineer
+CSE,embedded c microcontrollers,7.94,5,2,8,Embedded Engineer
+CSE,nodejs express mongodb api,9.33,4,2,7,Backend Developer
+CSE,ai deep learning neural networks,8.48,1,2,6,AI Engineer
+CSE,structure planning autocad,9.23,2,0,7,Civil Engineer
+CSE,nodejs express mongodb api,9.32,4,0,10,Backend Developer
+CSE,thermal systems manufacturing,7.0,4,1,10,Mechanical Engineer
+CSE,thermal systems manufacturing,8.57,1,0,10,Mechanical Engineer
+CSE,infrastructure design planning,8.43,4,1,10,Site Engineer
+CSE,python flask apis backend,6.72,5,0,7,Backend Developer
+CSE,autocad solidworks design,8.86,5,0,10,Design Engineer
+CSE,nodejs express mongodb api,8.29,1,2,8,Backend Developer
+CSE,embedded c microcontrollers,7.02,3,1,9,Embedded Engineer
+CSE,ai deep learning neural networks,7.69,5,2,10,AI Engineer
+CSE,python flask apis backend,7.61,3,0,10,Backend Developer
+CSE,flutter mobile apps firebase,7.83,4,2,10,Mobile App Developer
+CSE,react node mongodb fullstack,6.59,2,0,6,Full Stack Developer
+CSE,autocad solidworks design,8.24,4,1,7,Design Engineer
+CSE,aws docker kubernetes cloud,9.42,1,1,8,DevOps Engineer
+CSE,autocad solidworks design,7.27,5,2,9,Design Engineer
+CSE,mechanical cad cam,7.16,1,0,10,Mechanical Engineer
+CSE,cyber security linux networking,9.06,3,1,6,Security Analyst
+CSE,aws docker kubernetes cloud,8.11,1,0,8,DevOps Engineer
+CSE,thermal systems manufacturing,9.35,1,1,8,Mechanical Engineer
+CSE,structure planning autocad,8.05,2,1,6,Civil Engineer
+CSE,autocad solidworks design,9.19,3,1,10,Design Engineer
+CSE,aws docker kubernetes cloud,7.33,3,1,8,DevOps Engineer
+CSE,autocad solidworks design,6.73,4,0,7,Design Engineer
+CSE,signal processing electronics,9.15,4,0,8,Embedded Engineer
+CSE,embedded c microcontrollers,7.02,3,0,8,Embedded Engineer
+CSE,signal processing electronics,9.07,1,0,7,Embedded Engineer
+CSE,construction surveying site work,8.08,1,1,6,Site Engineer
+CSE,structure planning autocad,7.15,2,0,7,Civil Engineer
+CSE,flutter mobile apps firebase,8.45,3,0,8,Mobile App Developer
+CSE,thermal systems manufacturing,7.75,2,1,7,Mechanical Engineer
+CSE,construction surveying site work,7.03,2,0,10,Site Engineer
+CSE,ai deep learning neural networks,6.7,2,0,9,AI Engineer
+CSE,python machine learning ai data analysis,8.24,1,1,10,Data Scientist
+CSE,infrastructure design planning,7.58,4,1,7,Site Engineer
+CSE,ai deep learning neural networks,8.59,2,1,8,AI Engineer
+CSE,html css javascript react,7.66,2,0,10,Frontend Developer
+CSE,thermal systems manufacturing,9.47,1,1,9,Mechanical Engineer
+CSE,iot sensors arduino embedded,7.37,2,0,8,IoT Engineer
+CSE,autocad solidworks design,8.47,1,0,8,Design Engineer
+CSE,ai deep learning neural networks,8.68,1,1,7,AI Engineer
+CSE,iot sensors arduino embedded,9.34,3,2,8,IoT Engineer
+CSE,python flask apis backend,9.16,1,1,7,Backend Developer
+CSE,structure planning autocad,8.46,3,1,7,Civil Engineer
+CSE,geotechnical civil engineering,7.07,1,2,7,Civil Engineer
+CSE,mechanical cad cam,9.15,2,0,10,Mechanical Engineer
+CSE,react node mongodb fullstack,7.39,1,1,8,Full Stack Developer
+CSE,ai deep learning neural networks,7.05,2,2,6,AI Engineer
+CSE,mechanical cad cam,7.86,2,0,7,Mechanical Engineer
+CSE,ai deep learning neural networks,7.12,1,1,7,AI Engineer
+CSE,cyber security linux networking,6.53,2,1,8,Security Analyst
+CSE,flutter mobile apps firebase,9.33,1,0,10,Mobile App Developer
+CSE,signal processing electronics,8.97,3,1,7,Embedded Engineer
+CSE,verilog vlsi design circuits,6.83,1,1,9,Hardware Engineer
+CSE,flutter mobile apps firebase,9.45,1,2,10,Mobile App Developer
+CSE,react node mongodb fullstack,8.66,3,0,8,Full Stack Developer
+CSE,autocad solidworks design,8.24,5,2,7,Design Engineer
+CSE,html css javascript react,8.54,1,0,7,Frontend Developer
+CSE,nodejs express mongodb api,8.54,1,0,8,Backend Developer
+CSE,python flask apis backend,6.75,4,0,9,Backend Developer
+CSE,aws docker kubernetes cloud,7.23,1,2,9,DevOps Engineer
+CSE,construction surveying site work,8.82,2,0,7,Site Engineer
+CSE,construction surveying site work,8.12,5,0,9,Site Engineer
+CSE,python machine learning ai data analysis,7.42,5,2,8,Data Scientist
+CSE,ai deep learning neural networks,8.73,3,0,7,AI Engineer
+CSE,geotechnical civil engineering,6.85,5,0,8,Civil Engineer
+CSE,structure planning autocad,8.85,1,2,6,Civil Engineer
+CSE,aws docker kubernetes cloud,7.16,4,0,7,DevOps Engineer
+CSE,python flask apis backend,7.84,1,2,9,Backend Developer
+CSE,flutter mobile apps firebase,7.43,2,2,6,Mobile App Developer
+CSE,ai deep learning neural networks,9.47,2,0,6,AI Engineer
+CSE,cyber security linux networking,8.48,1,2,7,Security Analyst
+CSE,python flask apis backend,6.99,2,2,7,Backend Developer
+CSE,construction surveying site work,7.02,3,1,10,Site Engineer
+CSE,verilog vlsi design circuits,7.17,5,0,9,Hardware Engineer
+CSE,django python sql backend,7.35,5,2,8,Backend Developer
+CSE,django python sql backend,8.2,4,1,9,Backend Developer
+CSE,nodejs express mongodb api,7.22,4,2,9,Backend Developer
+CSE,python machine learning ai data analysis,8.22,5,0,10,Data Scientist
+CSE,react node mongodb fullstack,8.75,2,2,8,Full Stack Developer
+CSE,robotics automation design,7.01,2,1,6,Design Engineer
+CSE,robotics automation design,9.38,1,0,10,Design Engineer
+CSE,infrastructure design planning,7.07,2,1,9,Site Engineer
+CSE,flutter mobile apps firebase,8.64,1,0,10,Mobile App Developer
+CSE,nodejs express mongodb api,7.06,5,2,9,Backend Developer
+CSE,autocad solidworks design,8.99,5,2,9,Design Engineer
+CSE,django python sql backend,9.13,1,2,9,Backend Developer
+CSE,signal processing electronics,8.43,4,2,6,Embedded Engineer
+CSE,robotics automation design,7.25,4,2,6,Design Engineer
+CSE,thermal systems manufacturing,9.13,5,2,9,Mechanical Engineer
+CSE,django python sql backend,6.68,5,1,7,Backend Developer
+CSE,ai deep learning neural networks,8.6,1,1,10,AI Engineer
+CSE,ai deep learning neural networks,8.87,2,0,8,AI Engineer
+CSE,thermal systems manufacturing,8.14,2,1,10,Mechanical Engineer
+CSE,iot sensors arduino embedded,7.35,2,1,7,IoT Engineer
+CSE,embedded c microcontrollers,8.78,4,0,9,Embedded Engineer
+CSE,flutter mobile apps firebase,7.71,1,2,7,Mobile App Developer
+CSE,ai deep learning neural networks,8.7,5,2,8,AI Engineer
+CSE,aws docker kubernetes cloud,7.9,3,0,6,DevOps Engineer
+CSE,cyber security linux networking,7.87,5,1,7,Security Analyst
+CSE,python machine learning ai data analysis,8.01,3,0,10,Data Scientist
+CSE,aws docker kubernetes cloud,9.0,5,1,8,DevOps Engineer
+CSE,thermal systems manufacturing,6.83,5,2,9,Mechanical Engineer
+CSE,signal processing electronics,8.54,5,1,7,Embedded Engineer
+CSE,cyber security linux networking,6.8,5,0,7,Security Analyst
+CSE,signal processing electronics,9.31,1,0,8,Embedded Engineer
+CSE,signal processing electronics,8.29,2,2,10,Embedded Engineer
+CSE,thermal systems manufacturing,7.39,2,0,10,Mechanical Engineer
+CSE,python flask apis backend,7.94,1,2,8,Backend Developer
+CSE,signal processing electronics,8.86,4,0,9,Embedded Engineer
+CSE,ai deep learning neural networks,8.88,3,0,10,AI Engineer
+CSE,react node mongodb fullstack,8.48,5,2,8,Full Stack Developer
+CSE,ai deep learning neural networks,7.04,4,2,10,AI Engineer
+CSE,java spring boot microservices,9.48,3,1,8,Software Engineer
+CSE,autocad solidworks design,6.98,2,1,10,Design Engineer
+CSE,autocad solidworks design,9.01,3,1,7,Design Engineer
+CSE,signal processing electronics,8.18,2,1,10,Embedded Engineer
+CSE,ai deep learning neural networks,7.45,4,2,7,AI Engineer
+CSE,nodejs express mongodb api,6.79,5,1,10,Backend Developer
+CSE,aws docker kubernetes cloud,8.13,3,0,7,DevOps Engineer
+CSE,aws docker kubernetes cloud,7.46,1,2,8,DevOps Engineer
+CSE,python flask apis backend,8.19,1,2,7,Backend Developer
+CSE,aws docker kubernetes cloud,6.98,3,0,9,DevOps Engineer
+CSE,infrastructure design planning,6.76,2,0,6,Site Engineer
+CSE,flutter mobile apps firebase,9.33,1,0,10,Mobile App Developer
+CSE,thermal systems manufacturing,8.78,5,1,9,Mechanical Engineer
+CSE,verilog vlsi design circuits,7.63,4,1,7,Hardware Engineer
+CSE,react node mongodb fullstack,8.22,1,1,7,Full Stack Developer
+CSE,html css javascript react,8.71,3,0,6,Frontend Developer
+CSE,nodejs express mongodb api,7.35,3,1,9,Backend Developer
+CSE,structure planning autocad,9.07,5,1,9,Civil Engineer
+CSE,cyber security linux networking,8.31,3,2,8,Security Analyst
+CSE,java spring boot microservices,9.26,2,2,8,Software Engineer
+CSE,verilog vlsi design circuits,9.21,3,1,9,Hardware Engineer
+CSE,flutter mobile apps firebase,7.61,2,0,7,Mobile App Developer
+CSE,thermal systems manufacturing,8.88,1,1,9,Mechanical Engineer
+CSE,iot sensors arduino embedded,7.63,4,1,6,IoT Engineer
+CSE,infrastructure design planning,9.27,3,0,8,Site Engineer
+CSE,mechanical cad cam,8.23,3,2,10,Mechanical Engineer
+CSE,verilog vlsi design circuits,6.98,3,2,7,Hardware Engineer
+CSE,embedded c microcontrollers,8.57,4,2,10,Embedded Engineer
+CSE,cyber security linux networking,7.69,2,1,9,Security Analyst
+CSE,cyber security linux networking,7.09,4,0,9,Security Analyst
+CSE,html css javascript react,7.62,3,1,6,Frontend Developer
+CSE,aws docker kubernetes cloud,9.39,3,0,10,DevOps Engineer
+CSE,ai deep learning neural networks,7.0,2,2,9,AI Engineer
+CSE,nodejs express mongodb api,9.44,4,0,6,Backend Developer
+CSE,aws docker kubernetes cloud,6.61,2,1,8,DevOps Engineer
+CSE,html css javascript react,7.37,3,2,10,Frontend Developer
+CSE,iot sensors arduino embedded,8.98,1,2,9,IoT Engineer
+CSE,infrastructure design planning,8.54,4,0,10,Site Engineer
+CSE,html css javascript react,7.17,5,0,7,Frontend Developer
+CSE,robotics automation design,6.53,3,0,6,Design Engineer
+CSE,iot sensors arduino embedded,8.2,2,2,6,IoT Engineer
+CSE,mechanical cad cam,7.57,4,1,9,Mechanical Engineer
+CSE,django python sql backend,6.82,5,0,10,Backend Developer
+CSE,geotechnical civil engineering,8.04,5,0,10,Civil Engineer
+CSE,mechanical cad cam,8.85,3,1,9,Mechanical Engineer
+CSE,python flask apis backend,6.91,1,0,7,Backend Developer
+CSE,structure planning autocad,8.71,1,2,8,Civil Engineer
+CSE,embedded c microcontrollers,7.89,3,1,10,Embedded Engineer
+CSE,signal processing electronics,8.9,1,1,8,Embedded Engineer
+CSE,construction surveying site work,6.85,1,2,9,Site Engineer
+CSE,autocad solidworks design,6.78,4,1,7,Design Engineer
+CSE,thermal systems manufacturing,8.51,1,1,6,Mechanical Engineer
+CSE,infrastructure design planning,9.34,4,0,10,Site Engineer
+CSE,verilog vlsi design circuits,9.41,1,1,7,Hardware Engineer
+CSE,python flask apis backend,9.34,2,2,8,Backend Developer
+CSE,aws docker kubernetes cloud,7.1,4,0,6,DevOps Engineer
+CSE,flutter mobile apps firebase,8.67,3,0,9,Mobile App Developer
+CSE,cyber security linux networking,7.86,2,0,7,Security Analyst
+CSE,nodejs express mongodb api,7.42,3,1,8,Backend Developer
+CSE,structure planning autocad,7.86,5,0,6,Civil Engineer
+CSE,structure planning autocad,7.61,5,1,7,Civil Engineer
+CSE,robotics automation design,7.7,3,1,7,Design Engineer
+CSE,python machine learning ai data analysis,8.5,2,0,10,Data Scientist
+CSE,react node mongodb fullstack,7.05,1,0,10,Full Stack Developer
+CSE,react node mongodb fullstack,9.17,1,2,6,Full Stack Developer
+CSE,embedded c microcontrollers,6.84,3,1,9,Embedded Engineer
+CSE,react node mongodb fullstack,9.25,1,0,9,Full Stack Developer
+CSE,python flask apis backend,6.87,3,1,10,Backend Developer
+CSE,react node mongodb fullstack,7.82,3,1,10,Full Stack Developer
+CSE,construction surveying site work,7.92,2,1,9,Site Engineer
+CSE,robotics automation design,8.63,1,2,9,Design Engineer
+CSE,aws docker kubernetes cloud,9.04,5,1,8,DevOps Engineer
+CSE,html css javascript react,7.52,3,1,7,Frontend Developer
+CSE,react node mongodb fullstack,9.39,3,2,8,Full Stack Developer
+CSE,construction surveying site work,8.64,5,2,10,Site Engineer
+CSE,robotics automation design,7.04,5,0,10,Design Engineer
+CSE,autocad solidworks design,8.33,5,0,6,Design Engineer
+CSE,nodejs express mongodb api,8.53,1,1,6,Backend Developer
+CSE,python machine learning ai data analysis,7.97,5,1,9,Data Scientist
+CSE,nodejs express mongodb api,7.37,5,0,10,Backend Developer
+CSE,structure planning autocad,7.68,2,1,10,Civil Engineer
+CSE,html css javascript react,7.68,1,1,7,Frontend Developer
+CSE,ai deep learning neural networks,8.18,4,2,8,AI Engineer
+CSE,structure planning autocad,7.06,1,0,8,Civil Engineer
+CSE,flutter mobile apps firebase,7.31,4,1,8,Mobile App Developer
+CSE,verilog vlsi design circuits,9.31,1,1,6,Hardware Engineer
+CSE,react node mongodb fullstack,6.71,4,0,9,Full Stack Developer
+CSE,robotics automation design,9.06,1,2,6,Design Engineer
+CSE,construction surveying site work,8.55,2,1,6,Site Engineer
+CSE,django python sql backend,6.68,1,0,10,Backend Developer
+CSE,react node mongodb fullstack,6.56,2,1,9,Full Stack Developer
+CSE,aws docker kubernetes cloud,8.92,1,0,10,DevOps Engineer
+CSE,html css javascript react,9.43,3,2,9,Frontend Developer
+CSE,thermal systems manufacturing,6.55,4,0,9,Mechanical Engineer
+CSE,infrastructure design planning,9.26,3,2,7,Site Engineer
+CSE,python flask apis backend,7.67,3,2,9,Backend Developer
+CSE,autocad solidworks design,8.84,3,0,10,Design Engineer
+CSE,django python sql backend,8.96,1,1,7,Backend Developer
+CSE,java spring boot microservices,8.92,3,1,8,Software Engineer
+CSE,ai deep learning neural networks,6.89,1,0,9,AI Engineer
+CSE,aws docker kubernetes cloud,7.11,5,0,6,DevOps Engineer
+CSE,python machine learning ai data analysis,7.19,4,0,9,Data Scientist
+CSE,java spring boot microservices,8.09,3,1,8,Software Engineer
+CSE,ai deep learning neural networks,7.82,4,0,8,AI Engineer
+CSE,verilog vlsi design circuits,7.43,5,2,8,Hardware Engineer
+CSE,aws docker kubernetes cloud,9.1,4,1,10,DevOps Engineer
+CSE,mechanical cad cam,9.29,2,0,9,Mechanical Engineer
+CSE,cyber security linux networking,8.16,4,0,7,Security Analyst
+CSE,autocad solidworks design,6.62,1,1,7,Design Engineer
+CSE,structure planning autocad,6.95,2,0,8,Civil Engineer
+CSE,autocad solidworks design,7.98,2,1,6,Design Engineer
+CSE,iot sensors arduino embedded,8.75,4,1,8,IoT Engineer
+CSE,robotics automation design,6.54,4,0,6,Design Engineer
+CSE,iot sensors arduino embedded,8.47,5,0,6,IoT Engineer
+CSE,embedded c microcontrollers,7.69,5,1,9,Embedded Engineer
+CSE,verilog vlsi design circuits,7.25,4,1,7,Hardware Engineer
+CSE,html css javascript react,9.24,4,2,10,Frontend Developer
+CSE,mechanical cad cam,8.93,5,1,9,Mechanical Engineer
+CSE,mechanical cad cam,8.96,2,0,10,Mechanical Engineer
+CSE,nodejs express mongodb api,7.18,5,1,7,Backend Developer
+CSE,python machine learning ai data analysis,7.69,3,1,10,Data Scientist
+CSE,nodejs express mongodb api,9.17,2,1,7,Backend Developer
+CSE,autocad solidworks design,9.47,5,1,7,Design Engineer
+CSE,autocad solidworks design,7.52,4,0,7,Design Engineer
+CSE,aws docker kubernetes cloud,6.59,5,2,9,DevOps Engineer
+CSE,mechanical cad cam,7.25,4,2,10,Mechanical Engineer
+CSE,geotechnical civil engineering,9.25,3,1,6,Civil Engineer
+CSE,python flask apis backend,8.08,2,0,10,Backend Developer
+CSE,verilog vlsi design circuits,8.05,1,1,8,Hardware Engineer
+CSE,nodejs express mongodb api,7.7,3,2,8,Backend Developer
+CSE,signal processing electronics,8.89,1,1,7,Embedded Engineer
+CSE,flutter mobile apps firebase,8.31,2,1,6,Mobile App Developer
+CSE,construction surveying site work,7.93,1,1,6,Site Engineer
+CSE,html css javascript react,7.96,3,0,10,Frontend Developer
+CSE,python flask apis backend,7.63,5,0,8,Backend Developer
+CSE,iot sensors arduino embedded,8.25,2,1,8,IoT Engineer
+CSE,django python sql backend,8.08,1,2,10,Backend Developer
+CSE,nodejs express mongodb api,7.54,2,2,9,Backend Developer
+CSE,ai deep learning neural networks,6.9,1,0,6,AI Engineer
